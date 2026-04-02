@@ -23,10 +23,38 @@ export interface HealthResponse {
 }
 
 // ─── Config ──────────────────────────────────────────────────────────────────
-const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8080";
+const configuredApiUrl = process.env.NEXT_PUBLIC_API_URL?.trim();
+const CANDIDATE_BASE_URLS = [
+  configuredApiUrl,
+  "http://localhost:8000",
+  "http://127.0.0.1:8000",
+  "http://localhost:8080",
+  "http://127.0.0.1:8080",
+].filter((url): url is string => Boolean(url));
+
+let resolvedBaseUrl: string | null = configuredApiUrl ?? null;
+
+async function resolveBaseUrl(): Promise<string> {
+  if (resolvedBaseUrl) return resolvedBaseUrl;
+
+  for (const baseUrl of CANDIDATE_BASE_URLS) {
+    try {
+      const res = await fetch(`${baseUrl}/health`);
+      if (res.ok) {
+        resolvedBaseUrl = baseUrl;
+        return baseUrl;
+      }
+    } catch {
+      // Try next candidate.
+    }
+  }
+
+  throw new Error("Unable to reach backend API. Start backend on port 8000 or 8080, or set NEXT_PUBLIC_API_URL.");
+}
 
 async function apiFetch<T>(path: string, options?: RequestInit): Promise<T> {
-  const res = await fetch(`${BASE_URL}${path}`, {
+  const baseUrl = await resolveBaseUrl();
+  const res = await fetch(`${baseUrl}${path}`, {
     ...options,
     headers: { "Content-Type": "application/json", ...options?.headers },
   });

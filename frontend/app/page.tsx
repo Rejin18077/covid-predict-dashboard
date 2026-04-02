@@ -30,7 +30,9 @@ const CovidMap = dynamic(() => import("@/components/CovidMap"), {
 // last_known_cases-driven intensity for global map points.
 
 export default function DashboardPage() {
-  const [apiStatus, setApiStatus] = useState<"loading" | "ok" | "error">("loading");
+  const [apiStatus, setApiStatus] = useState<"loading" | "ok" | "error">(
+    "loading",
+  );
   const [regions, setRegions] = useState<string[]>([]);
   const [heatPoints, setHeatPoints] = useState<HeatmapPoint[]>([]);
   const [heatLoading, setHeatLoading] = useState(false);
@@ -41,47 +43,55 @@ export default function DashboardPage() {
   const [forecastLoading, setForecastLoading] = useState(false);
   const [forecastError, setForecastError] = useState<string | null>(null);
 
-  const normalizeHeatPoints = useCallback((points: Omit<HeatmapPoint, "intensity">[]): HeatmapPoint[] => {
-    const maxCases = Math.max(...points.map((p) => p.rawCases), 1);
-    return points.map((p) => ({
-      ...p,
-      // Sqrt scaling keeps low-mid values visible while preserving peaks.
-      intensity: Math.sqrt(p.rawCases / maxCases),
-    }));
-  }, []);
+  const normalizeHeatPoints = useCallback(
+    (points: Omit<HeatmapPoint, "intensity">[]): HeatmapPoint[] => {
+      const maxCases = Math.max(...points.map((p) => p.rawCases), 1);
+      return points.map((p) => ({
+        ...p,
+        // Sqrt scaling keeps low-mid values visible while preserving peaks.
+        intensity: Math.sqrt(p.rawCases / maxCases),
+      }));
+    },
+    [],
+  );
 
   // ── 1. Seed heatmap across all regions with known coordinates ─────────────
-  const seedHeatmap = useCallback(async (list: string[]) => {
-    setHeatLoading(true);
-    try {
-      const mapped = list.filter((r) => getCountryCoords(r) !== null);
-      const batchSize = 20;
-      const rawPoints: Omit<HeatmapPoint, "intensity">[] = [];
+  const seedHeatmap = useCallback(
+    async (list: string[]) => {
+      setHeatLoading(true);
+      try {
+        const mapped = list.filter((r) => getCountryCoords(r) !== null);
+        const batchSize = 20;
+        const rawPoints: Omit<HeatmapPoint, "intensity">[] = [];
 
-      for (let i = 0; i < mapped.length; i += batchSize) {
-        const batch = mapped.slice(i, i + batchSize);
-        const results = await Promise.allSettled(batch.map((r) => api.forecast(r, 1)));
+        for (let i = 0; i < mapped.length; i += batchSize) {
+          const batch = mapped.slice(i, i + batchSize);
+          const results = await Promise.allSettled(
+            batch.map((r) => api.forecast(r, 1)),
+          );
 
-        results.forEach((res, idx) => {
-          if (res.status !== "fulfilled") return;
-          const region = batch[idx];
-          const coords = getCountryCoords(region);
-          if (!coords) return;
+          results.forEach((res, idx) => {
+            if (res.status !== "fulfilled") return;
+            const region = batch[idx];
+            const coords = getCountryCoords(region);
+            if (!coords) return;
 
-          rawPoints.push({
-            region,
-            lat: coords[0],
-            lng: coords[1],
-            rawCases: res.value.last_known_cases,
+            rawPoints.push({
+              region,
+              lat: coords[0],
+              lng: coords[1],
+              rawCases: res.value.last_known_cases,
+            });
           });
-        });
-      }
+        }
 
-      setHeatPoints(normalizeHeatPoints(rawPoints));
-    } finally {
-      setHeatLoading(false);
-    }
-  }, [normalizeHeatPoints]);
+        setHeatPoints(normalizeHeatPoints(rawPoints));
+      } finally {
+        setHeatLoading(false);
+      }
+    },
+    [normalizeHeatPoints],
+  );
 
   // ── 2. Health check + load regions ─────────────────────────────────────────
   useEffect(() => {
@@ -91,7 +101,8 @@ export default function DashboardPage() {
         setApiStatus("ok");
         const { regions: list } = await api.regions();
         setRegions(list);
-        if (list.length > 0) setSelectedRegion(list.find(r => r === "india") ?? list[0]);
+        if (list.length > 0)
+          setSelectedRegion(list.find((r) => r === "india") ?? list[0]);
         seedHeatmap(list);
       } catch {
         setApiStatus("error");
@@ -117,7 +128,8 @@ export default function DashboardPage() {
             region: p.region,
             lat: p.lat,
             lng: p.lng,
-            rawCases: p.region === selectedRegion ? res.last_known_cases : p.rawCases,
+            rawCases:
+              p.region === selectedRegion ? res.last_known_cases : p.rawCases,
           }));
 
           if (!exists) {
@@ -150,7 +162,7 @@ export default function DashboardPage() {
     (region: string) => {
       if (regions.includes(region)) setSelectedRegion(region);
     },
-    [regions]
+    [regions],
   );
 
   // ── Derived stats ────────────────────────────────────────────────────────────
@@ -159,7 +171,10 @@ export default function DashboardPage() {
     ? heatPoints.reduce((a, b) => (a.rawCases > b.rawCases ? a : b))
     : null;
   const avgForecast = forecast
-    ? Math.round(forecast.forecast.reduce((s, d) => s + d.predicted_new_cases, 0) / (forecast.forecast.length || 1))
+    ? Math.round(
+        forecast.forecast.reduce((s, d) => s + d.predicted_new_cases, 0) /
+          (forecast.forecast.length || 1),
+      )
     : null;
   const maxForecast = forecast
     ? Math.max(...forecast.forecast.map((d) => d.predicted_new_cases))
@@ -170,7 +185,6 @@ export default function DashboardPage() {
       <Header apiStatus={apiStatus} regionsCount={regions.length} />
 
       <main className="flex-1 p-4 sm:p-6 flex flex-col gap-5 max-w-screen-2xl mx-auto w-full">
-
         {/* ── Hero stat row ── */}
         <section className="grid grid-cols-2 sm:grid-cols-4 gap-4">
           <StatCard
@@ -182,7 +196,13 @@ export default function DashboardPage() {
           />
           <StatCard
             label="Total Sampled Cases"
-            value={totalHeatCases > 0 ? (totalHeatCases >= 1_000_000 ? `${(totalHeatCases / 1_000_000).toFixed(1)}M` : `${(totalHeatCases / 1_000).toFixed(0)}K`) : "—"}
+            value={
+              totalHeatCases > 0
+                ? totalHeatCases >= 1_000_000
+                  ? `${(totalHeatCases / 1_000_000).toFixed(1)}M`
+                  : `${(totalHeatCases / 1_000).toFixed(0)}K`
+                : "—"
+            }
             sub="across all heatmap regions"
             color="red"
             icon="🔴"
@@ -205,19 +225,31 @@ export default function DashboardPage() {
         </section>
 
         {/* ── Map + Sidebar ── */}
-        <section className="grid grid-cols-1 lg:grid-cols-[1fr_340px] gap-5" style={{ minHeight: "440px" }}>
+        <section
+          className="grid grid-cols-1 lg:grid-cols-[1fr_340px] gap-5"
+          style={{ minHeight: "440px" }}
+        >
           {/* Map */}
-          <div className="glass border border-[var(--border)] rounded-2xl overflow-hidden relative" style={{ minHeight: "440px" }}>
+          <div
+            className="glass border border-[var(--border)] rounded-2xl overflow-hidden relative"
+            style={{ minHeight: "440px" }}
+          >
             {/* Map header */}
             <div className="absolute top-0 left-0 right-0 z-[1000] flex items-center justify-between px-5 pt-4">
               <div className="glass border border-[var(--border)] px-4 py-2 rounded-xl">
-                <p className="text-xs font-semibold text-[var(--text-primary)]">🗺️ Global COVID Heatmap</p>
-                <p className="text-[10px] text-[var(--text-muted)]">Click a region to forecast</p>
+                <p className="text-xs font-semibold text-[var(--text-primary)]">
+                  🗺️ Global COVID Heatmap
+                </p>
+                <p className="text-[10px] text-[var(--text-muted)]">
+                  Click a region to forecast
+                </p>
               </div>
               {heatLoading && (
                 <div className="glass border border-[var(--border)] px-3 py-2 rounded-xl flex items-center gap-2">
                   <div className="w-3 h-3 border-2 border-blue-500/30 border-t-blue-500 rounded-full animate-spin" />
-                  <span className="text-xs text-[var(--text-muted)]">Seeding map…</span>
+                  <span className="text-xs text-[var(--text-muted)]">
+                    Seeding map…
+                  </span>
                 </div>
               )}
             </div>
@@ -254,9 +286,13 @@ export default function DashboardPage() {
         {!forecast && !forecastLoading && apiStatus === "ok" && (
           <section className="glass border border-[var(--border)] rounded-2xl p-10 flex flex-col items-center gap-4 text-center slide-up">
             <div className="text-5xl">📊</div>
-            <h3 className="text-lg font-bold text-[var(--text-primary)]">No Forecast Yet</h3>
+            <h3 className="text-lg font-bold text-[var(--text-primary)]">
+              No Forecast Yet
+            </h3>
             <p className="text-sm text-[var(--text-muted)] max-w-sm">
-              Select a region from the sidebar, set your horizon, and click <strong className="text-blue-400">Run Forecast</strong> to visualize the prediction.
+              Select a region from the sidebar, set your horizon, and click{" "}
+              <strong className="text-blue-400">Run Forecast</strong> to
+              visualize the prediction.
             </p>
           </section>
         )}
@@ -265,7 +301,9 @@ export default function DashboardPage() {
         {apiStatus === "error" && (
           <section className="glass border border-red-500/30 rounded-2xl p-10 flex flex-col items-center gap-4 text-center">
             <div className="text-5xl">⚠️</div>
-            <h3 className="text-lg font-bold text-red-400">Cannot reach backend</h3>
+            <h3 className="text-lg font-bold text-red-400">
+              Cannot reach backend
+            </h3>
             <p className="text-sm text-[var(--text-muted)] max-w-sm">
               Make sure the FastAPI server is running at{" "}
               <code className="text-cyan-400 bg-[var(--bg-primary)] px-2 py-0.5 rounded">
@@ -285,7 +323,8 @@ export default function DashboardPage() {
       {/* ── Footer ── */}
       <footer className="border-t border-[var(--border)] py-4 px-6 text-center">
         <p className="text-xs text-[var(--text-muted)]">
-          CodeCure COVID-19 Dashboard · AI-Powered Forecasting · Data for research purposes only
+          CodeCure COVID-19 Dashboard · AI-Powered Forecasting · Data for
+          research purposes only
         </p>
       </footer>
     </div>

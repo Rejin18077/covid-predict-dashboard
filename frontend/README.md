@@ -8,9 +8,9 @@ Next.js + Tailwind CSS dashboard for global COVID visualization and forecasting.
 - Prediction panel connected to backend API at `http://localhost:8080`
 - Forecast chart rendered with Recharts
 - Region details including:
-	- Region name
-	- Last known cases
-	- Forecasted daily new cases over time
+  - Region name
+  - Last known cases
+  - Forecasted daily new cases over time
 - Responsive layout with reusable components
 
 ## Tech Stack

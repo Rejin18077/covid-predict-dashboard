@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import lightgbm as lgb
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from contextlib import asynccontextmanager
 from datetime import date
@@ -81,6 +82,19 @@ app = FastAPI(
     description="Predict daily new COVID cases for a region over the next N days.",
     version="2.0.0",
     lifespan=lifespan,
+)
+
+origins = [
+    "http://localhost:3000",
+    "http://127.0.0.1:3000",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # =============================================================================

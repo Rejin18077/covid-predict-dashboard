@@ -18,7 +18,10 @@ interface MapSidebarProps {
 }
 
 function formatDate(d: string) {
-  return new Date(d).toLocaleDateString("en-US", { month: "short", day: "numeric" });
+  return new Date(d).toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+  });
 }
 
 function formatNumber(n: number) {
@@ -52,7 +55,9 @@ export default function MapSidebar({
 
         {/* Region select */}
         <label className="block mb-3">
-          <span className="text-xs text-[var(--text-secondary)] mb-1 block">Region</span>
+          <span className="text-xs text-[var(--text-secondary)] mb-1 block">
+            Region
+          </span>
           <select
             id="region-select"
             value={selectedRegion}
@@ -86,7 +91,9 @@ export default function MapSidebar({
             className="w-full accent-blue-500"
           />
           <div className="flex justify-between text-[10px] text-[var(--text-muted)] mt-1">
-            <span>7d</span><span>30d</span><span>60d</span>
+            <span>7d</span>
+            <span>30d</span>
+            <span>60d</span>
           </div>
         </label>
 
@@ -126,12 +133,18 @@ export default function MapSidebar({
           </h2>
           <div className="grid grid-cols-2 gap-3">
             <div className="bg-[var(--bg-primary)] rounded-xl p-3 border border-[var(--border)]">
-              <p className="text-[10px] text-[var(--text-muted)] uppercase tracking-wide">Regions</p>
-              <p className="text-xl font-bold text-blue-400 mt-1">{heatPoints.length}</p>
+              <p className="text-[10px] text-[var(--text-muted)] uppercase tracking-wide">
+                Regions
+              </p>
+              <p className="text-xl font-bold text-blue-400 mt-1">
+                {heatPoints.length}
+              </p>
             </div>
             {peak && (
               <div className="bg-[var(--bg-primary)] rounded-xl p-3 border border-red-500/20">
-                <p className="text-[10px] text-[var(--text-muted)] uppercase tracking-wide">Hottest</p>
+                <p className="text-[10px] text-[var(--text-muted)] uppercase tracking-wide">
+                  Hottest
+                </p>
                 <p className="text-sm font-bold text-red-400 mt-1 truncate">
                   {peak.region.charAt(0).toUpperCase() + peak.region.slice(1)}
                 </p>
@@ -156,15 +169,21 @@ export default function MapSidebar({
           <div className="space-y-2 mb-4">
             <div className="flex justify-between text-sm">
               <span className="text-[var(--text-muted)]">Region</span>
-              <span className="text-[var(--text-primary)] font-medium capitalize">{forecast.region}</span>
+              <span className="text-[var(--text-primary)] font-medium capitalize">
+                {forecast.region}
+              </span>
             </div>
             <div className="flex justify-between text-sm">
               <span className="text-[var(--text-muted)]">Last Known Date</span>
-              <span className="text-[var(--text-primary)] font-medium">{formatDate(forecast.last_known_date)}</span>
+              <span className="text-[var(--text-primary)] font-medium">
+                {formatDate(forecast.last_known_date)}
+              </span>
             </div>
             <div className="flex justify-between text-sm">
               <span className="text-[var(--text-muted)]">Last Known Cases</span>
-              <span className="text-amber-400 font-bold">{formatNumber(forecast.last_known_cases)}</span>
+              <span className="text-amber-400 font-bold">
+                {formatNumber(forecast.last_known_cases)}
+              </span>
             </div>
           </div>
 
@@ -174,7 +193,10 @@ export default function MapSidebar({
             </p>
             <div className="space-y-1.5 max-h-48 overflow-y-auto pr-1">
               {forecast.forecast.slice(0, 10).map((d, i) => {
-                const maxCases = Math.max(...forecast.forecast.map((x) => x.predicted_new_cases), 1);
+                const maxCases = Math.max(
+                  ...forecast.forecast.map((x) => x.predicted_new_cases),
+                  1,
+                );
                 const pct = (d.predicted_new_cases / maxCases) * 100;
                 return (
                   <div key={d.date} className="flex items-center gap-2">
@@ -184,7 +206,10 @@ export default function MapSidebar({
                     <div className="flex-1 h-1.5 bg-[var(--bg-primary)] rounded-full overflow-hidden">
                       <div
                         className="h-full rounded-full bg-gradient-to-r from-blue-500 to-cyan-400"
-                        style={{ width: `${pct}%`, transition: "width 0.4s ease" }}
+                        style={{
+                          width: `${pct}%`,
+                          transition: "width 0.4s ease",
+                        }}
                       />
                     </div>
                     <span className="text-[10px] text-cyan-400 font-mono w-14 text-right shrink-0">
