@@ -1,0 +1,161 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css" layer(base);
+
+:root {
+  --bg-primary:    #070b14;
+  --bg-secondary:  #0d1321;
+  --bg-card:       #111827;
+  --bg-card-hover: #1a2234;
+  --border:        #1e2d4a;
+  --border-glow:   #2563eb44;
+  --text-primary:  #f0f6ff;
+  --text-secondary:#8ba3c7;
+  --text-muted:    #4a617f;
+  --accent-blue:   #3b82f6;
+  --accent-cyan:   #06b6d4;
+  --accent-violet: #8b5cf6;
+  --accent-red:    #ef4444;
+  --accent-amber:  #f59e0b;
+  --accent-green:  #10b981;
+  --glow-blue:     0 0 20px #3b82f630;
+  --glow-cyan:     0 0 20px #06b6d430;
+  --glow-red:      0 0 20px #ef444430;
+}
+
+*,*::before,*::after { box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  overflow-x: hidden;
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: var(--bg-primary); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent-blue); }
+
+/* ── Animated gradient background ── */
+.bg-grid {
+  background-image:
+    linear-gradient(rgba(37,99,235,.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(37,99,235,.04) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+/* ── Glass cards ── */
+.glass {
+  background: rgba(17,24,39,.65);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+}
+
+.glass-hover:hover {
+  background: rgba(26,34,52,.75);
+  border-color: var(--accent-blue);
+  box-shadow: var(--glow-blue);
+  transition: all .25s ease;
+}
+
+/* ── Glow text ── */
+.text-glow-blue  { text-shadow: 0 0 20px #3b82f6aa; }
+.text-glow-cyan  { text-shadow: 0 0 20px #06b6d4aa; }
+.text-glow-red   { text-shadow: 0 0 20px #ef4444aa; }
+
+/* ── Animated border gradient ── */
+.border-glow {
+  position: relative;
+}
+.border-glow::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  padding: 1px;
+  background: linear-gradient(135deg, #3b82f6, #06b6d4, #8b5cf6);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+/* ── Stat badge pulse ── */
+@keyframes pulse-badge {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(239,68,68,.4); }
+  50%       { box-shadow: 0 0 0 8px rgba(239,68,68,0); }
+}
+.pulse-red { animation: pulse-badge 2.5s ease-in-out infinite; }
+
+/* ── Shimmer loading ── */
+@keyframes shimmer {
+  0%   { background-position: -600px 0; }
+  100% { background-position:  600px 0; }
+}
+.shimmer {
+  background: linear-gradient(90deg, #1a2234 25%, #243048 50%, #1a2234 75%);
+  background-size: 600px 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 8px;
+}
+
+/* ── Slide-up entrance ── */
+@keyframes slideUp {
+  from { opacity:0; transform: translateY(20px); }
+  to   { opacity:1; transform: translateY(0); }
+}
+.slide-up { animation: slideUp .45s ease forwards; }
+
+/* ── Leaflet theme overrides ── */
+.leaflet-container {
+  background: #070b14 !important;
+  border-radius: 12px;
+  font-family: 'Inter', sans-serif;
+}
+.leaflet-control-zoom a {
+  background: var(--bg-card) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--border) !important;
+}
+.leaflet-control-attribution {
+  background: rgba(7,11,20,.8) !important;
+  color: var(--text-muted) !important;
+  font-size: 10px;
+}
+.leaflet-popup-content-wrapper {
+  background: var(--bg-card) !important;
+  color: var(--text-primary) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 10px !important;
+  box-shadow: 0 8px 32px #0004 !important;
+}
+.leaflet-popup-tip { background: var(--bg-card) !important; }
+
+/* ── Recharts tooltip ── */
+.recharts-tooltip-wrapper .recharts-default-tooltip {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 10px !important;
+  color: var(--text-primary) !important;
+}
+
+/* ── Select dropdowns ── */
+select {
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M6 8L1 3h10z' fill='%238ba3c7'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  padding-right: 36px !important;
+}
+select option { background: var(--bg-card); color: var(--text-primary); }
