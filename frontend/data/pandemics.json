@@ -1,0 +1,4519 @@
+﻿[
+    {
+        "id":  "event-1",
+        "event":  "1350 BC plague of Megiddo",
+        "date":  "1350 BC",
+        "location":  "Megiddo, land of Canaan",
+        "disease":  "Amarna letters EA 244, Biridiya, mayor of Megiddo complains to Amenhotep III of his area being \"consumed by death, plague and dust\"",
+        "death_toll":  "Unknown",
+        "ref":  "[25]",
+        "startYear":  -1350,
+        "endYear":  -1350,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Israel"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-2",
+        "event":  "Plague of Athens",
+        "date":  "429–426 BC",
+        "location":  "Greece, Libya, Egypt, Ethiopia",
+        "disease":  "Unknown, possibly typhus, typhoid fever or viral hemorrhagic fever",
+        "death_toll":  "75,000–100,000",
+        "ref":  "[26][27][28][29]",
+        "startYear":  -429,
+        "endYear":  -426,
+        "deathTollMin":  75000,
+        "deathTollMax":  100000,
+        "countries":  [
+                          "Egypt",
+                          "Ethiopia",
+                          "Greece",
+                          "Libya"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-3",
+        "event":  "412 BC epidemic",
+        "date":  "412 BC",
+        "location":  "Greece (Northern Greece, Roman Republic)",
+        "disease":  "Unknown, possibly influenza",
+        "death_toll":  "Unknown",
+        "ref":  "[30]",
+        "startYear":  -412,
+        "endYear":  -412,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Greece",
+                          "Italy"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-4",
+        "event":  "Antonine Plague",
+        "date":  "165–180 (possibly up to 190)",
+        "location":  "Roman Empire",
+        "disease":  "Unknown, possibly smallpox",
+        "death_toll":  "5–10 million",
+        "ref":  "[31][32]",
+        "startYear":  165,
+        "endYear":  190,
+        "deathTollMin":  5,
+        "deathTollMax":  10000000,
+        "countries":  [
+                          "Italy",
+                          "Greece",
+                          "Turkey",
+                          "Egypt"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-5",
+        "event":  "Jian\u0027an Plague",
+        "date":  "217",
+        "location":  "Han Dynasty",
+        "disease":  "Unknown, possibly typhoid fever or viral hemorrhagic fever",
+        "death_toll":  "Unknown",
+        "ref":  "[33][34]",
+        "startYear":  217,
+        "endYear":  217,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "China"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-6",
+        "event":  "Plague of Cyprian",
+        "date":  "250–266",
+        "location":  "Europe",
+        "disease":  "Unknown, possibly smallpox",
+        "death_toll":  "Unknown",
+        "ref":  "[35][36]",
+        "startYear":  250,
+        "endYear":  266,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "France",
+                          "Germany",
+                          "Italy",
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-7",
+        "event":  "Plague of Justinian (beginning of first plague pandemic)",
+        "date":  "541–549",
+        "location":  "Europe and West Asia",
+        "disease":  "Bubonic plague",
+        "death_toll":  "15–100 million",
+        "ref":  "[7][37][38]",
+        "startYear":  541,
+        "endYear":  549,
+        "deathTollMin":  15,
+        "deathTollMax":  100000000,
+        "countries":  [
+                          "Turkey",
+                          "Iraq",
+                          "Iran",
+                          "Syria",
+                          "France",
+                          "Germany",
+                          "Italy",
+                          "Spain",
+                          "China",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-8",
+        "event":  "Roman Plague of 590 (part of first plague pandemic)",
+        "date":  "590",
+        "location":  "Rome, Byzantine Empire",
+        "disease":  "Bubonic plague",
+        "death_toll":  "Unknown",
+        "ref":  "[39]",
+        "startYear":  590,
+        "endYear":  590,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Italy",
+                          "Turkey",
+                          "Greece",
+                          "Egypt"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-9",
+        "event":  "Plague of Sheroe (part of First plague pandemic)",
+        "date":  "627–628",
+        "location":  "Bilad al-Sham",
+        "disease":  "Bubonic plague",
+        "death_toll":  "25,000+",
+        "ref":  "",
+        "startYear":  627,
+        "endYear":  628,
+        "deathTollMin":  25000,
+        "deathTollMax":  25000,
+        "countries":  [
+                          "Syria",
+                          "Israel"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-10",
+        "event":  "Plague of Amwas (part of first plague pandemic)",
+        "date":  "638–639",
+        "location":  "Byzantine Empire, West Asia, Africa",
+        "disease":  "Bubonic plague",
+        "death_toll":  "25,000+",
+        "ref":  "[40]",
+        "startYear":  638,
+        "endYear":  639,
+        "deathTollMin":  25000,
+        "deathTollMax":  25000,
+        "countries":  [
+                          "Turkey",
+                          "Greece",
+                          "Egypt",
+                          "Iraq",
+                          "Iran",
+                          "Syria",
+                          "Nigeria",
+                          "South Africa",
+                          "Ethiopia",
+                          "China",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-11",
+        "event":  "Plague of 664 (part of first plague pandemic)",
+        "date":  "664–689",
+        "location":  "British Isles",
+        "disease":  "Bubonic plague",
+        "death_toll":  "Unknown",
+        "ref":  "[41]",
+        "startYear":  664,
+        "endYear":  689,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "United Kingdom",
+                          "Ireland"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-12",
+        "event":  "Plague of 698–701 (part of first plague pandemic)",
+        "date":  "698–701",
+        "location":  "Byzantine Empire, West Asia, Syria, Mesopotamia",
+        "disease":  "Bubonic plague",
+        "death_toll":  "Unknown",
+        "ref":  "[42]",
+        "startYear":  698,
+        "endYear":  701,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Syria",
+                          "Turkey",
+                          "Greece",
+                          "Egypt",
+                          "Iraq",
+                          "Iran",
+                          "China",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-13",
+        "event":  "735–737 Japanese smallpox epidemic",
+        "date":  "735–737",
+        "location":  "Japan",
+        "disease":  "Smallpox",
+        "death_toll":  "2 million (approx. .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}1⁄3 of Japanese population)",
+        "ref":  "[12][43]",
+        "startYear":  735,
+        "endYear":  737,
+        "deathTollMin":  0,
+        "deathTollMax":  2000000,
+        "countries":  [
+                          "Japan"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-14",
+        "event":  "Plague of 746–747 (part of first plague pandemic)",
+        "date":  "746–747",
+        "location":  "Byzantine Empire, West Asia, Africa",
+        "disease":  "Bubonic plague",
+        "death_toll":  "Unknown",
+        "ref":  "[40]",
+        "startYear":  746,
+        "endYear":  747,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Turkey",
+                          "Greece",
+                          "Egypt",
+                          "Iraq",
+                          "Iran",
+                          "Syria",
+                          "Nigeria",
+                          "South Africa",
+                          "Ethiopia",
+                          "China",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-15",
+        "event":  "Black Death (start of the second plague pandemic)",
+        "date":  "1346–1353",
+        "location":  "Eurasia and North Africa",
+        "disease":  "Bubonic plague Yersinia pestis bacterium",
+        "death_toll":  "75–200 million (30–60% of European population)",
+        "ref":  "[44]",
+        "startYear":  1346,
+        "endYear":  1353,
+        "deathTollMin":  30,
+        "deathTollMax":  200000000,
+        "countries":  [
+                          "China",
+                          "India",
+                          "Italy",
+                          "Egypt",
+                          "Libya",
+                          "Algeria",
+                          "Morocco",
+                          "Nigeria",
+                          "South Africa",
+                          "Ethiopia",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-16",
+        "event":  "Sweating sickness (multiple outbreaks)",
+        "date":  "1485–1551",
+        "location":  "Britain (England) and later continental Europe",
+        "disease":  "Unknown, possibly an unknown species of hantavirus",
+        "death_toll":  "10,000+",
+        "ref":  "[45]",
+        "startYear":  1485,
+        "endYear":  1551,
+        "deathTollMin":  10000,
+        "deathTollMax":  10000,
+        "countries":  [
+                          "United Kingdom",
+                          "France",
+                          "Germany",
+                          "Italy",
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-17",
+        "event":  "1489 Spain typhus epidemic",
+        "date":  "1489",
+        "location":  "Spain",
+        "disease":  "Typhus",
+        "death_toll":  "17000",
+        "ref":  "[46]",
+        "startYear":  1489,
+        "endYear":  1489,
+        "deathTollMin":  17000,
+        "deathTollMax":  17000,
+        "countries":  [
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-18",
+        "event":  "1510 influenza pandemic",
+        "date":  "1510",
+        "location":  "Asia, North Africa, Europe",
+        "disease":  "Influenza",
+        "death_toll":  "Unknown, around 1% of those infected",
+        "ref":  "[47]",
+        "startYear":  1510,
+        "endYear":  1510,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "France",
+                          "Germany",
+                          "Italy",
+                          "Spain",
+                          "Egypt",
+                          "Libya",
+                          "Algeria",
+                          "Morocco",
+                          "Nigeria",
+                          "South Africa",
+                          "Ethiopia",
+                          "China",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-19",
+        "event":  "1520 Mexico smallpox epidemic",
+        "date":  "1519–1520",
+        "location":  "Mexico",
+        "disease":  "Smallpox",
+        "death_toll":  "5–8 million (40% of population)",
+        "ref":  "[9]",
+        "startYear":  1519,
+        "endYear":  1520,
+        "deathTollMin":  5,
+        "deathTollMax":  8000000,
+        "countries":  [
+                          "Mexico"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-20",
+        "event":  "Cocoliztli epidemic of 1545–1548",
+        "date":  "1545–1548",
+        "location":  "Mexico",
+        "disease":  "Possibly Salmonella enterica",
+        "death_toll":  "5–15 million (80% of population)",
+        "ref":  "[48][49][50][51]",
+        "startYear":  1545,
+        "endYear":  1548,
+        "deathTollMin":  5,
+        "deathTollMax":  15000000,
+        "countries":  [
+                          "Mexico"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-21",
+        "event":  "1557 influenza pandemic",
+        "date":  "1557–1559",
+        "location":  "Asia, Africa, Europe, and Americas",
+        "disease":  "Influenza",
+        "death_toll":  "Unknown",
+        "ref":  "",
+        "startYear":  1557,
+        "endYear":  1559,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "United States",
+                          "France",
+                          "Germany",
+                          "Italy",
+                          "Spain",
+                          "Egypt",
+                          "Nigeria",
+                          "South Africa",
+                          "Ethiopia",
+                          "China",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-22",
+        "event":  "1561 Chile smallpox epidemic",
+        "date":  "1561–1562",
+        "location":  "Chile",
+        "disease":  "Smallpox",
+        "death_toll":  "Unknown (20–25% of native population)",
+        "ref":  "[52]",
+        "startYear":  1561,
+        "endYear":  1562,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Chile"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-23",
+        "event":  "1563 London plague (part of the second plague pandemic)",
+        "date":  "1563–1564",
+        "location":  "London, England",
+        "disease":  "Bubonic plague",
+        "death_toll":  "20,100+",
+        "ref":  "[53]",
+        "startYear":  1563,
+        "endYear":  1564,
+        "deathTollMin":  20100,
+        "deathTollMax":  20100,
+        "countries":  [
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-24",
+        "event":  "Cocoliztli epidemic of 1576",
+        "date":  "1576–1580",
+        "location":  "Mexico",
+        "disease":  "Possibly Salmonella enterica",
+        "death_toll":  "2–2.5 million (50% of population)",
+        "ref":  "[48][49][50][51]",
+        "startYear":  1576,
+        "endYear":  1580,
+        "deathTollMin":  2,
+        "deathTollMax":  2500000,
+        "countries":  [
+                          "Mexico"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-25",
+        "event":  "1582 Tenerife plague epidemic (part of the second plague pandemic)",
+        "date":  "1582–1583",
+        "location":  "Tenerife, Spain",
+        "disease":  "Bubonic plague",
+        "death_toll":  "5,000–9,000",
+        "ref":  "[54]",
+        "startYear":  1582,
+        "endYear":  1583,
+        "deathTollMin":  5000,
+        "deathTollMax":  9000,
+        "countries":  [
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-26",
+        "event":  "1592–1596 Seneca nation measles epidemic",
+        "date":  "1592–1596",
+        "location":  "Seneca nation, North America",
+        "disease":  "Measles",
+        "death_toll":  "Unknown",
+        "ref":  "[55]",
+        "startYear":  1592,
+        "endYear":  1596,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-27",
+        "event":  "1592–1593 Malta plague epidemic (part of the second plague pandemic)",
+        "date":  "1592–1593",
+        "location":  "Malta",
+        "disease":  "Bubonic plague",
+        "death_toll":  "3000",
+        "ref":  "[56]",
+        "startYear":  1592,
+        "endYear":  1593,
+        "deathTollMin":  3000,
+        "deathTollMax":  3000,
+        "countries":  [
+                          "Malta"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-28",
+        "event":  "1592–1593 London plague (part of the second plague pandemic)",
+        "date":  "1592–1593",
+        "location":  "London, England",
+        "disease":  "Bubonic plague",
+        "death_toll":  "19,900+",
+        "ref":  "[57]",
+        "startYear":  1592,
+        "endYear":  1593,
+        "deathTollMin":  19900,
+        "deathTollMax":  19900,
+        "countries":  [
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-29",
+        "event":  "1596–1602 Spain plague epidemic (part of the second plague pandemic)",
+        "date":  "1596–1602",
+        "location":  "Spain",
+        "disease":  "Bubonic plague",
+        "death_toll":  "600,000–700,000",
+        "ref":  "[58]",
+        "startYear":  1596,
+        "endYear":  1602,
+        "deathTollMin":  600000,
+        "deathTollMax":  700000,
+        "countries":  [
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-30",
+        "event":  "1600–1650 South America malaria epidemic",
+        "date":  "1600–1650",
+        "location":  "South America",
+        "disease":  "Malaria",
+        "death_toll":  "Unknown",
+        "ref":  "[citation needed]",
+        "startYear":  1600,
+        "endYear":  1650,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "United States",
+                          "Brazil",
+                          "Peru",
+                          "Argentina"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-31",
+        "event":  "1603 London plague epidemic (part of the second plague pandemic)",
+        "date":  "1603",
+        "location":  "London, England",
+        "disease":  "Bubonic plague",
+        "death_toll":  "40000",
+        "ref":  "[59][60][61]",
+        "startYear":  1603,
+        "endYear":  1603,
+        "deathTollMin":  40000,
+        "deathTollMax":  40000,
+        "countries":  [
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-32",
+        "event":  "1616 New England infections epidemic",
+        "date":  "1616–1620",
+        "location":  "Southern New England, British North America, especially the Wampanoag people",
+        "disease":  "Unknown, possibly leptospirosis with Weil syndrome. Classic explanations include yellow fever, bubonic plague, influenza, smallpox, chickenpox, typhus, and syndemic infection of hepatitis B and hepatitis D",
+        "death_toll":  "Unknown (estimated 30–90% of population)",
+        "ref":  "[62][63]",
+        "startYear":  1616,
+        "endYear":  1620,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "United States",
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-33",
+        "event":  "1629–1631 Italian plague (part of the second plague pandemic)",
+        "date":  "1629–1631",
+        "location":  "Italy",
+        "disease":  "Bubonic plague",
+        "death_toll":  "1 million",
+        "ref":  "[64]",
+        "startYear":  1629,
+        "endYear":  1631,
+        "deathTollMin":  1000000,
+        "deathTollMax":  1000000,
+        "countries":  [
+                          "Italy"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-34",
+        "event":  "1632–1635 Augsburg plague epidemic (part of the second plague pandemic)",
+        "date":  "1632–1635",
+        "location":  "Augsburg, Germany",
+        "disease":  "Bubonic plague",
+        "death_toll":  "13712",
+        "ref":  "[65]",
+        "startYear":  1632,
+        "endYear":  1635,
+        "deathTollMin":  13712,
+        "deathTollMax":  13712,
+        "countries":  [
+                          "Germany"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-35",
+        "event":  "Massachusetts smallpox epidemic",
+        "date":  "1633–1634",
+        "location":  "Massachusetts Bay Colony, Thirteen Colonies",
+        "disease":  "Smallpox",
+        "death_toll":  "1000",
+        "ref":  "[66]",
+        "startYear":  1633,
+        "endYear":  1634,
+        "deathTollMin":  1000,
+        "deathTollMax":  1000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-36",
+        "event":  "1634–1640 Wyandot people epidemic",
+        "date":  "1634–1640",
+        "location":  "Wyandot people, North America",
+        "disease":  "Smallpox and Influenza",
+        "death_toll":  "15,000–25,000",
+        "ref":  "[67]",
+        "startYear":  1634,
+        "endYear":  1640,
+        "deathTollMin":  15000,
+        "deathTollMax":  25000,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-37",
+        "event":  "1637 London plague epidemic (part of the second plague pandemic)",
+        "date":  "1636–1637",
+        "location":  "London and Westminster, England",
+        "disease":  "Bubonic plague",
+        "death_toll":  "10400",
+        "ref":  "[68]",
+        "startYear":  1636,
+        "endYear":  1637,
+        "deathTollMin":  10400,
+        "deathTollMax":  10400,
+        "countries":  [
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-38",
+        "event":  "Great Plague in the late Ming dynasty (part of the second plague pandemic)",
+        "date":  "1633–1644",
+        "location":  "China",
+        "disease":  "Bubonic plague",
+        "death_toll":  "200,000+",
+        "ref":  "[69][70]",
+        "startYear":  1633,
+        "endYear":  1644,
+        "deathTollMin":  200000,
+        "deathTollMax":  200000,
+        "countries":  [
+                          "China"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-39",
+        "event":  "Great Plague of Seville (part of the second plague pandemic)",
+        "date":  "1647–1652",
+        "location":  "Spain",
+        "disease":  "Bubonic plague",
+        "death_toll":  "500000",
+        "ref":  "[71]",
+        "startYear":  1647,
+        "endYear":  1652,
+        "deathTollMin":  500000,
+        "deathTollMax":  500000,
+        "countries":  [
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-40",
+        "event":  "1648 Central America yellow fever epidemic",
+        "date":  "1648",
+        "location":  "Central America",
+        "disease":  "Yellow fever",
+        "death_toll":  "Unknown",
+        "ref":  "[72]",
+        "startYear":  1648,
+        "endYear":  1648,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "United States",
+                          "Mexico",
+                          "Panama"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-41",
+        "event":  "Naples Plague (part of the second plague pandemic)",
+        "date":  "1656–1658",
+        "location":  "Italy",
+        "disease":  "Bubonic plague",
+        "death_toll":  "1250000",
+        "ref":  "[73]",
+        "startYear":  1656,
+        "endYear":  1658,
+        "deathTollMin":  1250000,
+        "deathTollMax":  1250000,
+        "countries":  [
+                          "Italy"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-42",
+        "event":  "1663–1664 Amsterdam plague epidemic (part of the second plague pandemic)",
+        "date":  "1663–1664",
+        "location":  "Amsterdam, Netherlands",
+        "disease":  "Bubonic plague",
+        "death_toll":  "24148",
+        "ref":  "[74]",
+        "startYear":  1663,
+        "endYear":  1664,
+        "deathTollMin":  24148,
+        "deathTollMax":  24148,
+        "countries":  [
+                          "Netherlands"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-43",
+        "event":  "Great Plague of London (part of the second plague pandemic)",
+        "date":  "1665–1666",
+        "location":  "England",
+        "disease":  "Bubonic plague",
+        "death_toll":  "100000",
+        "ref":  "[75][76]",
+        "startYear":  1665,
+        "endYear":  1666,
+        "deathTollMin":  100000,
+        "deathTollMax":  100000,
+        "countries":  [
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-44",
+        "event":  "1668 France plague (part of the second plague pandemic)",
+        "date":  "1668",
+        "location":  "France",
+        "disease":  "Bubonic plague",
+        "death_toll":  "40000",
+        "ref":  "[77]",
+        "startYear":  1668,
+        "endYear":  1668,
+        "deathTollMin":  40000,
+        "deathTollMax":  40000,
+        "countries":  [
+                          "France"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-45",
+        "event":  "1675–1676 Malta plague epidemic (part of the second plague pandemic)",
+        "date":  "1675–1676",
+        "location":  "Malta",
+        "disease":  "Bubonic plague",
+        "death_toll":  "11300",
+        "ref":  "[78]",
+        "startYear":  1675,
+        "endYear":  1676,
+        "deathTollMin":  11300,
+        "deathTollMax":  11300,
+        "countries":  [
+                          "Malta"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-46",
+        "event":  "1676–1685 Spain plague (part of the second plague pandemic)",
+        "date":  "1676–1685",
+        "location":  "Spain",
+        "disease":  "Bubonic plague",
+        "death_toll":  "Unknown",
+        "ref":  "[79]",
+        "startYear":  1676,
+        "endYear":  1685,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-47",
+        "event":  "1677–1678 Boston smallpox epidemic",
+        "date":  "1677–1678",
+        "location":  "Massachusetts Bay Colony, British North America",
+        "disease":  "Smallpox",
+        "death_toll":  "750–1,000",
+        "ref":  "[80]",
+        "startYear":  1677,
+        "endYear":  1678,
+        "deathTollMin":  750,
+        "deathTollMax":  1000,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-48",
+        "event":  "Great Plague of Vienna (part of the second plague pandemic)",
+        "date":  "1679",
+        "location":  "Vienna, Austria",
+        "disease":  "Bubonic plague",
+        "death_toll":  "76000",
+        "ref":  "[81]",
+        "startYear":  1679,
+        "endYear":  1679,
+        "deathTollMin":  76000,
+        "deathTollMax":  76000,
+        "countries":  [
+                          "Austria"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-49",
+        "event":  "1681 Prague plague epidemic (part of the second plague pandemic)",
+        "date":  "1681",
+        "location":  "Prague, Czech Kingdom",
+        "disease":  "Bubonic plague",
+        "death_toll":  "83000",
+        "ref":  "[82]",
+        "startYear":  1681,
+        "endYear":  1681,
+        "deathTollMin":  83000,
+        "deathTollMax":  83000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-50",
+        "event":  "1687 South Africa influenza outbreak",
+        "date":  "1687",
+        "location":  "South Africa",
+        "disease":  "Unknown, possibly influenza",
+        "death_toll":  "Unknown",
+        "ref":  "[83]",
+        "startYear":  1687,
+        "endYear":  1687,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "South Africa",
+                          "Egypt",
+                          "Nigeria",
+                          "Ethiopia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-51",
+        "event":  "1693 Boston yellow fever epidemic",
+        "date":  "1693",
+        "location":  "Boston, Massachusetts Bay Colony, British North America",
+        "disease":  "Yellow fever",
+        "death_toll":  "3,100+",
+        "ref":  "[84]",
+        "startYear":  1693,
+        "endYear":  1693,
+        "deathTollMin":  3100,
+        "deathTollMax":  3100,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-52",
+        "event":  "1699 Charleston and Philadelphia yellow fever epidemic",
+        "date":  "1699",
+        "location":  "Charleston and Philadelphia, British North America",
+        "disease":  "Yellow fever",
+        "death_toll":  "520 (300 in Charleston, 220 in Philadelphia)",
+        "ref":  "[85]",
+        "startYear":  1699,
+        "endYear":  1699,
+        "deathTollMin":  220,
+        "deathTollMax":  520,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-53",
+        "event":  "1702 New York City yellow fever epidemic",
+        "date":  "1702",
+        "location":  "New York City, British North America",
+        "disease":  "Yellow fever",
+        "death_toll":  "500",
+        "ref":  "[86]",
+        "startYear":  1702,
+        "endYear":  1702,
+        "deathTollMin":  500,
+        "deathTollMax":  500,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-54",
+        "event":  "1702–1703 St. Lawrence Valley smallpox epidemic",
+        "date":  "1702–1703",
+        "location":  "New France, Canada",
+        "disease":  "Smallpox",
+        "death_toll":  "1300",
+        "ref":  "[87]",
+        "startYear":  1702,
+        "endYear":  1703,
+        "deathTollMin":  1300,
+        "deathTollMax":  1300,
+        "countries":  [
+                          "Canada",
+                          "France"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-55",
+        "event":  "1707–1709 Iceland smallpox epidemic",
+        "date":  "1707–1709",
+        "location":  "Iceland",
+        "disease":  "Smallpox",
+        "death_toll":  "18,000+ (36% of population)",
+        "ref":  "[88]",
+        "startYear":  1707,
+        "endYear":  1709,
+        "deathTollMin":  36,
+        "deathTollMax":  18000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-56",
+        "event":  "Great Northern War plague outbreak (part of the second plague pandemic)",
+        "date":  "1710–1712",
+        "location":  "Denmark, Sweden, Lithuania",
+        "disease":  "Bubonic plague",
+        "death_toll":  "164000",
+        "ref":  "[89][90]",
+        "startYear":  1710,
+        "endYear":  1712,
+        "deathTollMin":  164000,
+        "deathTollMax":  164000,
+        "countries":  [
+                          "Sweden"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-57",
+        "event":  "1713–1715 North America measles epidemic",
+        "date":  "1713–1715",
+        "location":  "Thirteen Colonies and New France, Canada",
+        "disease":  "Measles",
+        "death_toll":  "Unknown",
+        "ref":  "[91][92]",
+        "startYear":  1713,
+        "endYear":  1715,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Canada",
+                          "France"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-58",
+        "event":  "Great Plague of Marseille (part of the second plague pandemic)",
+        "date":  "1720–1722",
+        "location":  "France",
+        "disease":  "Bubonic plague",
+        "death_toll":  "100,000+",
+        "ref":  "[93]",
+        "startYear":  1720,
+        "endYear":  1722,
+        "deathTollMin":  100000,
+        "deathTollMax":  100000,
+        "countries":  [
+                          "France"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-59",
+        "event":  "1721 Boston smallpox outbreak",
+        "date":  "1721–1722",
+        "location":  "Massachusetts Bay Colony",
+        "disease":  "Smallpox",
+        "death_toll":  "844",
+        "ref":  "[94]",
+        "startYear":  1721,
+        "endYear":  1722,
+        "deathTollMin":  844,
+        "deathTollMax":  844,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-60",
+        "event":  "1730 Cádiz yellow fever epidemic",
+        "date":  "1730",
+        "location":  "Cádiz, Spain",
+        "disease":  "Yellow fever",
+        "death_toll":  "2200",
+        "ref":  "[95]",
+        "startYear":  1730,
+        "endYear":  1730,
+        "deathTollMin":  2200,
+        "deathTollMax":  2200,
+        "countries":  [
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-61",
+        "event":  "1732–1733 Thirteen Colonies influenza epidemic",
+        "date":  "1732–1733",
+        "location":  "Thirteen Colonies",
+        "disease":  "Influenza",
+        "death_toll":  "Unknown",
+        "ref":  "[96]",
+        "startYear":  1732,
+        "endYear":  1733,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-62",
+        "event":  "1733 New France smallpox epidemic",
+        "date":  "1733",
+        "location":  "New France, Canada",
+        "disease":  "Smallpox",
+        "death_toll":  "Unknown",
+        "ref":  "[97]",
+        "startYear":  1733,
+        "endYear":  1733,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Canada",
+                          "France"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-63",
+        "event":  "1735–1741 diphtheria epidemic",
+        "date":  "1735–1741",
+        "location":  "New England, Province of New York, Province of New Jersey, British North America",
+        "disease":  "Diphtheria",
+        "death_toll":  "20000",
+        "ref":  "[98]",
+        "startYear":  1735,
+        "endYear":  1741,
+        "deathTollMin":  20000,
+        "deathTollMax":  20000,
+        "countries":  [
+                          "United States",
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-64",
+        "event":  "Great Plague of 1738 (part of the second plague pandemic)",
+        "date":  "1738",
+        "location":  "Balkans",
+        "disease":  "Bubonic plague",
+        "death_toll":  "50000",
+        "ref":  "[99]",
+        "startYear":  1738,
+        "endYear":  1738,
+        "deathTollMin":  50000,
+        "deathTollMax":  50000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-65",
+        "event":  "1738–1739 North Carolina smallpox epidemic",
+        "date":  "1738–1739",
+        "location":  "Province of Carolina, Thirteen Colonies",
+        "disease":  "Smallpox",
+        "death_toll":  "7,700–11,700",
+        "ref":  "[100]",
+        "startYear":  1738,
+        "endYear":  1739,
+        "deathTollMin":  7700,
+        "deathTollMax":  11700,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-66",
+        "event":  "1741 Cartagena yellow fever epidemic",
+        "date":  "1741",
+        "location":  "Cartagena, Colombia",
+        "disease":  "Yellow fever",
+        "death_toll":  "20000",
+        "ref":  "[101]",
+        "startYear":  1741,
+        "endYear":  1741,
+        "deathTollMin":  20000,
+        "deathTollMax":  20000,
+        "countries":  [
+                          "Colombia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-67",
+        "event":  "1743 Sicily plague epidemic (part of the second plague pandemic)",
+        "date":  "1743",
+        "location":  "Messina, Sicily, Italy",
+        "disease":  "Bubonic plague",
+        "death_toll":  "40,000–50,000",
+        "ref":  "[102][103]",
+        "startYear":  1743,
+        "endYear":  1743,
+        "deathTollMin":  40000,
+        "deathTollMax":  50000,
+        "countries":  [
+                          "Italy"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-68",
+        "event":  "1759 North America measles outbreak",
+        "date":  "1759",
+        "location":  "North America",
+        "disease":  "Measles",
+        "death_toll":  "Unknown",
+        "ref":  "[104]",
+        "startYear":  1759,
+        "endYear":  1759,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-69",
+        "event":  "1760 Charleston smallpox epidemic",
+        "date":  "1760",
+        "location":  "Charleston, British North America",
+        "disease":  "Smallpox",
+        "death_toll":  "730–940",
+        "ref":  "[105][106]",
+        "startYear":  1760,
+        "endYear":  1760,
+        "deathTollMin":  730,
+        "deathTollMax":  940,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-70",
+        "event":  "1762 Havana yellow fever epidemic",
+        "date":  "1762",
+        "location":  "Havana, Cuba",
+        "disease":  "Yellow fever",
+        "death_toll":  "8000",
+        "ref":  "[101]",
+        "startYear":  1762,
+        "endYear":  1762,
+        "deathTollMin":  8000,
+        "deathTollMax":  8000,
+        "countries":  [
+                          "Cuba"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-71",
+        "event":  "1763 Pittsburgh area smallpox outbreak",
+        "date":  "1763",
+        "location":  "North America, present-day Pittsburgh area",
+        "disease":  "Smallpox",
+        "death_toll":  "Unknown",
+        "ref":  "[107]",
+        "startYear":  1763,
+        "endYear":  1763,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-72",
+        "event":  "1770–1772 Russian plague (part of the second plague pandemic)",
+        "date":  "1770–1772",
+        "location":  "Russia",
+        "disease":  "Bubonic plague",
+        "death_toll":  "50000",
+        "ref":  "[108]",
+        "startYear":  1770,
+        "endYear":  1772,
+        "deathTollMin":  50000,
+        "deathTollMax":  50000,
+        "countries":  [
+                          "Russia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-73",
+        "event":  "1772 North America measles epidemic",
+        "date":  "1772",
+        "location":  "North America",
+        "disease":  "Measles",
+        "death_toll":  "1080",
+        "ref":  "[109]",
+        "startYear":  1772,
+        "endYear":  1772,
+        "deathTollMin":  1080,
+        "deathTollMax":  1080,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-74",
+        "event":  "1772–1773 Persian Plague (part of the second plague pandemic)",
+        "date":  "1772–1773",
+        "location":  "Persia",
+        "disease":  "Bubonic plague",
+        "death_toll":  "2 million",
+        "ref":  "[110]",
+        "startYear":  1772,
+        "endYear":  1773,
+        "deathTollMin":  2000000,
+        "deathTollMax":  2000000,
+        "countries":  [
+                          "Iran"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-75",
+        "event":  "1775–1776 England influenza outbreak",
+        "date":  "1775–1776",
+        "location":  "England",
+        "disease":  "Influenza",
+        "death_toll":  "Unknown",
+        "ref":  "[111]",
+        "startYear":  1775,
+        "endYear":  1776,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-76",
+        "event":  "1775–1782 North American smallpox epidemic",
+        "date":  "1775–1782",
+        "location":  "Native populations in what is now the Pacific Northwest of the United States",
+        "disease":  "Smallpox",
+        "death_toll":  "11,000+",
+        "ref":  "[112][113]",
+        "startYear":  1775,
+        "endYear":  1782,
+        "deathTollMin":  11000,
+        "deathTollMax":  11000,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-77",
+        "event":  "1778 Spain dengue fever outbreak",
+        "date":  "1778",
+        "location":  "Spain",
+        "disease":  "Dengue fever",
+        "death_toll":  "Unknown",
+        "ref":  "[114]",
+        "startYear":  1778,
+        "endYear":  1778,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-78",
+        "event":  "1788 Pueblo Indians smallpox epidemic",
+        "date":  "1788",
+        "location":  "Pueblo Indians in northern New Spain (what is now the Southwestern United States)",
+        "disease":  "Smallpox",
+        "death_toll":  "Unknown",
+        "ref":  "[115]",
+        "startYear":  1788,
+        "endYear":  1788,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "India",
+                          "Spain",
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-79",
+        "event":  "1789–1790 New South Wales smallpox epidemic",
+        "date":  "1789–1790",
+        "location":  "New South Wales, Australia",
+        "disease":  "Smallpox",
+        "death_toll":  "Unknown (50–70% of native population)",
+        "ref":  "[116][117]",
+        "startYear":  1789,
+        "endYear":  1790,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Australia",
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-80",
+        "event":  "1793 Philadelphia yellow fever epidemic",
+        "date":  "1793",
+        "location":  "Philadelphia, United States",
+        "disease":  "Yellow fever",
+        "death_toll":  "5,000+",
+        "ref":  "[118]",
+        "startYear":  1793,
+        "endYear":  1793,
+        "deathTollMin":  5000,
+        "deathTollMax":  5000,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-81",
+        "event":  "1800–1803 Spain yellow fever epidemic",
+        "date":  "1800–1803",
+        "location":  "Spain",
+        "disease":  "Yellow fever",
+        "death_toll":  "60,000+",
+        "ref":  "[119]",
+        "startYear":  1800,
+        "endYear":  1803,
+        "deathTollMin":  60000,
+        "deathTollMax":  60000,
+        "countries":  [
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-82",
+        "event":  "1801 Ottoman Empire and Egypt bubonic plague epidemic",
+        "date":  "1801",
+        "location":  "Ottoman Empire, Egypt",
+        "disease":  "Bubonic plague",
+        "death_toll":  "Unknown",
+        "ref":  "[120]",
+        "startYear":  1801,
+        "endYear":  1801,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Egypt",
+                          "Turkey",
+                          "Greece"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-83",
+        "event":  "1802–1803 Saint-Domingue yellow fever epidemic",
+        "date":  "1802–1803",
+        "location":  "Saint-Domingue",
+        "disease":  "Yellow fever",
+        "death_toll":  "29,000–55,000",
+        "ref":  "[121]",
+        "startYear":  1802,
+        "endYear":  1803,
+        "deathTollMin":  29000,
+        "deathTollMax":  55000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-84",
+        "event":  "1812 Russia typhus epidemic",
+        "date":  "1812",
+        "location":  "Russia",
+        "disease":  "Typhus",
+        "death_toll":  "300000",
+        "ref":  "[46]",
+        "startYear":  1812,
+        "endYear":  1812,
+        "deathTollMin":  300000,
+        "deathTollMax":  300000,
+        "countries":  [
+                          "Russia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-85",
+        "event":  "1812–1819 Ottoman plague epidemic (part of the second plague pandemic)",
+        "date":  "1812–1819",
+        "location":  "Ottoman Empire",
+        "disease":  "Bubonic plague",
+        "death_toll":  "300,000+",
+        "ref":  "[122]",
+        "startYear":  1812,
+        "endYear":  1819,
+        "deathTollMin":  300000,
+        "deathTollMax":  300000,
+        "countries":  [
+                          "Turkey",
+                          "Greece",
+                          "Egypt"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-86",
+        "event":  "1813–1814 Malta plague epidemic (part of the second plague pandemic)",
+        "date":  "1813–1814",
+        "location":  "Malta",
+        "disease":  "Bubonic plague",
+        "death_toll":  "4500",
+        "ref":  "[123]",
+        "startYear":  1813,
+        "endYear":  1814,
+        "deathTollMin":  4500,
+        "deathTollMax":  4500,
+        "countries":  [
+                          "Malta"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-87",
+        "event":  "Caragea\u0027s plague (part of the second plague pandemic)",
+        "date":  "1813",
+        "location":  "Romania",
+        "disease":  "Bubonic plague",
+        "death_toll":  "60000",
+        "ref":  "[124]",
+        "startYear":  1813,
+        "endYear":  1813,
+        "deathTollMin":  60000,
+        "deathTollMax":  60000,
+        "countries":  [
+                          "Romania"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-88",
+        "event":  "1817–1819 Ireland typhus epidemic",
+        "date":  "1817–1819",
+        "location":  "Ireland",
+        "disease":  "Typhus",
+        "death_toll":  "65000",
+        "ref":  "[125]",
+        "startYear":  1817,
+        "endYear":  1819,
+        "deathTollMin":  65000,
+        "deathTollMax":  65000,
+        "countries":  [
+                          "Ireland"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-89",
+        "event":  "First cholera pandemic",
+        "date":  "1817–1824",
+        "location":  "Asia, Europe",
+        "disease":  "Cholera",
+        "death_toll":  "100,000+",
+        "ref":  "[126]",
+        "startYear":  1817,
+        "endYear":  1824,
+        "deathTollMin":  100000,
+        "deathTollMax":  100000,
+        "countries":  [
+                          "France",
+                          "Germany",
+                          "Italy",
+                          "Spain",
+                          "China",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-90",
+        "event":  "1820 Savannah yellow fever epidemic",
+        "date":  "1820",
+        "location":  "Savannah, Georgia, United States",
+        "disease":  "Yellow fever",
+        "death_toll":  "700",
+        "ref":  "[127]",
+        "startYear":  1820,
+        "endYear":  1820,
+        "deathTollMin":  700,
+        "deathTollMax":  700,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-91",
+        "event":  "1821 Barcelona yellow fever epidemic",
+        "date":  "1821",
+        "location":  "Barcelona, Spain",
+        "disease":  "Yellow fever",
+        "death_toll":  "5,000–20,000",
+        "ref":  "[128][129]",
+        "startYear":  1821,
+        "endYear":  1821,
+        "deathTollMin":  5000,
+        "deathTollMax":  20000,
+        "countries":  [
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-92",
+        "event":  "Second cholera pandemic",
+        "date":  "1826–1837",
+        "location":  "Asia, Europe, North America",
+        "disease":  "Cholera",
+        "death_toll":  "100,000+",
+        "ref":  "[130]",
+        "startYear":  1826,
+        "endYear":  1837,
+        "deathTollMin":  100000,
+        "deathTollMax":  100000,
+        "countries":  [
+                          "United States",
+                          "France",
+                          "Germany",
+                          "Italy",
+                          "Spain",
+                          "China",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-93",
+        "event":  "1828–1829 New South Wales smallpox epidemic",
+        "date":  "1828–1829",
+        "location":  "New South Wales, Australia",
+        "disease":  "Smallpox",
+        "death_toll":  "19000",
+        "ref":  "[131][132]",
+        "startYear":  1828,
+        "endYear":  1829,
+        "deathTollMin":  19000,
+        "deathTollMax":  19000,
+        "countries":  [
+                          "Australia",
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-94",
+        "event":  "Groningen epidemic",
+        "date":  "1829",
+        "location":  "Netherlands",
+        "disease":  "Malaria",
+        "death_toll":  "2800",
+        "ref":  "[133]",
+        "startYear":  1829,
+        "endYear":  1829,
+        "deathTollMin":  2800,
+        "deathTollMax":  2800,
+        "countries":  [
+                          "Netherlands"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-95",
+        "event":  "1829–1833 Pacific Northwest malaria epidemic",
+        "date":  "1829–1833",
+        "location":  "Pacific Northwest, United States",
+        "disease":  "Malaria, possibly other diseases too",
+        "death_toll":  "150000",
+        "ref":  "[134][135]",
+        "startYear":  1829,
+        "endYear":  1833,
+        "deathTollMin":  150000,
+        "deathTollMax":  150000,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-96",
+        "event":  "1829–1835 Iran plague outbreak",
+        "date":  "1829–1835",
+        "location":  "Iran",
+        "disease":  "Bubonic plague",
+        "death_toll":  "Unknown",
+        "ref":  "[136]",
+        "startYear":  1829,
+        "endYear":  1835,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Iran"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-97",
+        "event":  "1834–1836 Egypt plague epidemic",
+        "date":  "1834–1836",
+        "location":  "Egypt",
+        "disease":  "Bubonic plague",
+        "death_toll":  "Unknown",
+        "ref":  "[137]",
+        "startYear":  1834,
+        "endYear":  1836,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Egypt"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-98",
+        "event":  "1837 Great Plains smallpox epidemic",
+        "date":  "1837–1838",
+        "location":  "Great Plains, United States and Canada",
+        "disease":  "Smallpox",
+        "death_toll":  "17,000+",
+        "ref":  "[138]",
+        "startYear":  1837,
+        "endYear":  1838,
+        "deathTollMin":  17000,
+        "deathTollMax":  17000,
+        "countries":  [
+                          "Canada",
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-99",
+        "event":  "1841 Southern United States yellow fever epidemic",
+        "date":  "1841",
+        "location":  "Southern United States (especially Louisiana and Florida)",
+        "disease":  "Yellow fever",
+        "death_toll":  "3498",
+        "ref":  "[139]",
+        "startYear":  1841,
+        "endYear":  1841,
+        "deathTollMin":  3498,
+        "deathTollMax":  3498,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-100",
+        "event":  "1847 North American typhus epidemic",
+        "date":  "1847–1848",
+        "location":  "Canada",
+        "disease":  "Typhus",
+        "death_toll":  "20,000+",
+        "ref":  "[140]",
+        "startYear":  1847,
+        "endYear":  1848,
+        "deathTollMin":  20000,
+        "deathTollMax":  20000,
+        "countries":  [
+                          "Canada"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-101",
+        "event":  "1847 Southern United States yellow fever epidemic",
+        "date":  "1847",
+        "location":  "Southern United States (especially New Orleans)",
+        "disease":  "Yellow fever",
+        "death_toll":  "3400",
+        "ref":  "[141]",
+        "startYear":  1847,
+        "endYear":  1847,
+        "deathTollMin":  3400,
+        "deathTollMax":  3400,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-102",
+        "event":  "1847–1848 influenza epidemic",
+        "date":  "1847–1848",
+        "location":  "Worldwide",
+        "disease":  "Influenza",
+        "death_toll":  "Unknown",
+        "ref":  "[142]",
+        "startYear":  1847,
+        "endYear":  1848,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-103",
+        "event":  "1848–1849 Hawaii epidemic of infections",
+        "date":  "1848–1849",
+        "location":  "Hawaiian Kingdom",
+        "disease":  "Measles, whooping cough, dysentery and influenza",
+        "death_toll":  "10000",
+        "ref":  "[143]",
+        "startYear":  1848,
+        "endYear":  1849,
+        "deathTollMin":  10000,
+        "deathTollMax":  10000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-104",
+        "event":  "1853 New Orleans yellow fever epidemic",
+        "date":  "1853",
+        "location":  "New Orleans, United States",
+        "disease":  "Yellow fever",
+        "death_toll":  "7970",
+        "ref":  "[128]",
+        "startYear":  1853,
+        "endYear":  1853,
+        "deathTollMin":  7970,
+        "deathTollMax":  7970,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-105",
+        "event":  "Third cholera pandemic",
+        "date":  "1846–1860",
+        "location":  "Worldwide",
+        "disease":  "Cholera",
+        "death_toll":  "1 million+",
+        "ref":  "[144]",
+        "startYear":  1846,
+        "endYear":  1860,
+        "deathTollMin":  1000000,
+        "deathTollMax":  1000000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-106",
+        "event":  "1853 Ottoman Empire plague epidemic",
+        "date":  "1853",
+        "location":  "Ottoman Empire",
+        "disease":  "Bubonic plague",
+        "death_toll":  "Unknown",
+        "ref":  "[145]",
+        "startYear":  1853,
+        "endYear":  1853,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Turkey",
+                          "Greece",
+                          "Egypt"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-107",
+        "event":  "1853 Copenhagen cholera outbreak",
+        "date":  "1853",
+        "location":  "Copenhagen, Denmark",
+        "disease":  "Cholera",
+        "death_toll":  "4737",
+        "ref":  "[146]",
+        "startYear":  1853,
+        "endYear":  1853,
+        "deathTollMin":  4737,
+        "deathTollMax":  4737,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-108",
+        "event":  "1854 Broad Street cholera outbreak",
+        "date":  "1854",
+        "location":  "London, England",
+        "disease":  "Cholera",
+        "death_toll":  "616",
+        "ref":  "[147]",
+        "startYear":  1854,
+        "endYear":  1854,
+        "deathTollMin":  616,
+        "deathTollMax":  616,
+        "countries":  [
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-109",
+        "event":  "1855 Norfolk yellow fever epidemic",
+        "date":  "1855",
+        "location":  "Norfolk and Portsmouth, England",
+        "disease":  "Yellow fever",
+        "death_toll":  "3,000 (2,000 in Norfolk, 1,000 in Portsmouth)",
+        "ref":  "[148]",
+        "startYear":  1855,
+        "endYear":  1855,
+        "deathTollMin":  1000,
+        "deathTollMax":  3000,
+        "countries":  [
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-110",
+        "event":  "Third plague pandemic",
+        "date":  "1855–1960",
+        "location":  "Worldwide",
+        "disease":  "Bubonic plague",
+        "death_toll":  "12–15 million (India and China)",
+        "ref":  "[149][150]",
+        "startYear":  1855,
+        "endYear":  1960,
+        "deathTollMin":  12,
+        "deathTollMax":  15000000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-111",
+        "event":  "1855–1857 Montevideo yellow fever epidemic",
+        "date":  "1855–1857",
+        "location":  "Montevideo, Uruguay",
+        "disease":  "Yellow fever",
+        "death_toll":  "3,400 (first wave; 900, second wave; 2,500)",
+        "ref":  "[151]",
+        "startYear":  1855,
+        "endYear":  1857,
+        "deathTollMin":  900,
+        "deathTollMax":  3400,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-112",
+        "event":  "1857 Lisbon yellow fever epidemic",
+        "date":  "1857",
+        "location":  "Lisbon, Portugal",
+        "disease":  "Yellow fever",
+        "death_toll":  "6000",
+        "ref":  "[128]",
+        "startYear":  1857,
+        "endYear":  1857,
+        "deathTollMin":  6000,
+        "deathTollMax":  6000,
+        "countries":  [
+                          "Portugal"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-113",
+        "event":  "1857 Victoria smallpox epidemic",
+        "date":  "1857",
+        "location":  "Victoria, Australia",
+        "disease":  "Smallpox",
+        "death_toll":  "Unknown",
+        "ref":  "[152]",
+        "startYear":  1857,
+        "endYear":  1857,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Australia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-114",
+        "event":  "1857–1859 Europe and the Americas influenza epidemic",
+        "date":  "1857–1859",
+        "location":  "Europe, North America, South America",
+        "disease":  "Influenza",
+        "death_toll":  "Unknown",
+        "ref":  "[153]",
+        "startYear":  1857,
+        "endYear":  1859,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "United States",
+                          "France",
+                          "Germany",
+                          "Italy",
+                          "Spain",
+                          "Brazil",
+                          "Peru",
+                          "Argentina"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-115",
+        "event":  "1862 Pacific Northwest smallpox epidemic",
+        "date":  "1862–1863",
+        "location":  "Pacific Northwest, Canada and United States",
+        "disease":  "Smallpox",
+        "death_toll":  "20,000+",
+        "ref":  "[154][155][156]",
+        "startYear":  1862,
+        "endYear":  1863,
+        "deathTollMin":  20000,
+        "deathTollMax":  20000,
+        "countries":  [
+                          "Canada",
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-116",
+        "event":  "1861–1865 United States typhoid fever epidemic",
+        "date":  "1861–1865",
+        "location":  "United States",
+        "disease":  "Typhoid fever",
+        "death_toll":  "80000",
+        "ref":  "[157]",
+        "startYear":  1861,
+        "endYear":  1865,
+        "deathTollMin":  80000,
+        "deathTollMax":  80000,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-117",
+        "event":  "Fourth cholera pandemic",
+        "date":  "1863–1875",
+        "location":  "Middle East",
+        "disease":  "Cholera",
+        "death_toll":  "600000",
+        "ref":  "[158]",
+        "startYear":  1863,
+        "endYear":  1875,
+        "deathTollMin":  600000,
+        "deathTollMax":  600000,
+        "countries":  [
+                          "Saudi Arabia",
+                          "Israel",
+                          "Iran",
+                          "Iraq"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-118",
+        "event":  "1867 Sydney measles epidemic",
+        "date":  "1867",
+        "location":  "Sydney, Australia",
+        "disease":  "Measles",
+        "death_toll":  "748",
+        "ref":  "[159]",
+        "startYear":  1867,
+        "endYear":  1867,
+        "deathTollMin":  748,
+        "deathTollMax":  748,
+        "countries":  [
+                          "Australia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-119",
+        "event":  "1871 Buenos Aires yellow fever epidemic",
+        "date":  "1871",
+        "location":  "Buenos Aires, Argentina",
+        "disease":  "Yellow fever",
+        "death_toll":  "13,500–26,200",
+        "ref":  "[160]",
+        "startYear":  1871,
+        "endYear":  1871,
+        "deathTollMin":  13500,
+        "deathTollMax":  26200,
+        "countries":  [
+                          "Argentina"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-120",
+        "event":  "1870–1875 Europe smallpox epidemic",
+        "date":  "1870–1875",
+        "location":  "Europe",
+        "disease":  "Smallpox",
+        "death_toll":  "500000",
+        "ref":  "[161][162]",
+        "startYear":  1870,
+        "endYear":  1875,
+        "deathTollMin":  500000,
+        "deathTollMax":  500000,
+        "countries":  [
+                          "France",
+                          "Germany",
+                          "Italy",
+                          "Spain"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-121",
+        "event":  "1875 Fiji measles outbreak",
+        "date":  "1875",
+        "location":  "Fiji",
+        "disease":  "Measles",
+        "death_toll":  "40000",
+        "ref":  "[163]",
+        "startYear":  1875,
+        "endYear":  1875,
+        "deathTollMin":  40000,
+        "deathTollMax":  40000,
+        "countries":  [
+                          "Fiji"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-122",
+        "event":  "1875–1876 Australia scarlet fever epidemic",
+        "date":  "1875–1876",
+        "location":  "Australia",
+        "disease":  "Scarlet fever",
+        "death_toll":  "8000",
+        "ref":  "[159]",
+        "startYear":  1875,
+        "endYear":  1876,
+        "deathTollMin":  8000,
+        "deathTollMax":  8000,
+        "countries":  [
+                          "Australia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-123",
+        "event":  "1876 Ottoman Empire plague epidemic",
+        "date":  "1876",
+        "location":  "Ottoman Empire",
+        "disease":  "Bubonic plague",
+        "death_toll":  "20000",
+        "ref":  "[164]",
+        "startYear":  1876,
+        "endYear":  1876,
+        "deathTollMin":  20000,
+        "deathTollMax":  20000,
+        "countries":  [
+                          "Turkey",
+                          "Greece",
+                          "Egypt"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-124",
+        "event":  "1878 New Orleans yellow fever epidemic",
+        "date":  "1878",
+        "location":  "New Orleans, United States",
+        "disease":  "Yellow fever",
+        "death_toll":  "4046",
+        "ref":  "[121]",
+        "startYear":  1878,
+        "endYear":  1878,
+        "deathTollMin":  4046,
+        "deathTollMax":  4046,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-125",
+        "event":  "1878 Mississippi Valley yellow fever epidemic",
+        "date":  "1878",
+        "location":  "Mississippi Valley, United States",
+        "disease":  "Yellow fever",
+        "death_toll":  "13000",
+        "ref":  "[121]",
+        "startYear":  1878,
+        "endYear":  1878,
+        "deathTollMin":  13000,
+        "deathTollMax":  13000,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-126",
+        "event":  "Fifth cholera pandemic",
+        "date":  "1881–1896",
+        "location":  "Asia, Africa, Europe, South America",
+        "disease":  "Cholera",
+        "death_toll":  "298600",
+        "ref":  "[165]",
+        "startYear":  1881,
+        "endYear":  1896,
+        "deathTollMin":  298600,
+        "deathTollMax":  298600,
+        "countries":  [
+                          "United States",
+                          "France",
+                          "Germany",
+                          "Italy",
+                          "Spain",
+                          "Brazil",
+                          "Peru",
+                          "Argentina",
+                          "Egypt",
+                          "Nigeria",
+                          "South Africa",
+                          "Ethiopia",
+                          "China",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-127",
+        "event":  "1885 Montreal smallpox epidemic",
+        "date":  "1885",
+        "location":  "Montreal, Canada",
+        "disease":  "Smallpox",
+        "death_toll":  "3164",
+        "ref":  "[166]",
+        "startYear":  1885,
+        "endYear":  1885,
+        "deathTollMin":  3164,
+        "deathTollMax":  3164,
+        "countries":  [
+                          "Canada"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-128",
+        "event":  "1889–1890 pandemic",
+        "date":  "1889–1890",
+        "location":  "Worldwide",
+        "disease":  "Influenza or Human coronavirus OC43 / HCoV-OC43[14][167] (disputed)",
+        "death_toll":  "1 million",
+        "ref":  "[168]",
+        "startYear":  1889,
+        "endYear":  1890,
+        "deathTollMin":  1000000,
+        "deathTollMax":  1000000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-129",
+        "event":  "1894 Hong Kong plague (part of the third plague pandemic)",
+        "date":  "1894–1929",
+        "location":  "Hong Kong",
+        "disease":  "Bubonic plague",
+        "death_toll":  "20,000+",
+        "ref":  "[169]",
+        "startYear":  1894,
+        "endYear":  1929,
+        "deathTollMin":  20000,
+        "deathTollMax":  20000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-130",
+        "event":  "Bombay plague epidemic (part of the third plague pandemic)",
+        "date":  "1896–1905",
+        "location":  "Bombay, India",
+        "disease":  "Bubonic plague",
+        "death_toll":  "20788",
+        "ref":  "[170]",
+        "startYear":  1896,
+        "endYear":  1905,
+        "deathTollMin":  20788,
+        "deathTollMax":  20788,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-131",
+        "event":  "1896–1906 Congo Basin African trypanosomiasis epidemic",
+        "date":  "1896–1906",
+        "location":  "Congo Basin",
+        "disease":  "African trypanosomiasis",
+        "death_toll":  "500000",
+        "ref":  "[171]",
+        "startYear":  1896,
+        "endYear":  1906,
+        "deathTollMin":  500000,
+        "deathTollMax":  500000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-132",
+        "event":  "1899 Porto plague outbreak (part of the third plague pandemic)",
+        "date":  "1899",
+        "location":  "Porto, Portugal",
+        "disease":  "Bubonic plague",
+        "death_toll":  "132",
+        "ref":  "[172]",
+        "startYear":  1899,
+        "endYear":  1899,
+        "deathTollMin":  132,
+        "deathTollMax":  132,
+        "countries":  [
+                          "Portugal"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-133",
+        "event":  "Sixth cholera pandemic",
+        "date":  "1899–1923",
+        "location":  "Europe, Asia, Africa",
+        "disease":  "Cholera",
+        "death_toll":  "800,000+",
+        "ref":  "[173]",
+        "startYear":  1899,
+        "endYear":  1923,
+        "deathTollMin":  800000,
+        "deathTollMax":  800000,
+        "countries":  [
+                          "France",
+                          "Germany",
+                          "Italy",
+                          "Spain",
+                          "Egypt",
+                          "Nigeria",
+                          "South Africa",
+                          "Ethiopia",
+                          "China",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-134",
+        "event":  "San Francisco plague of 1900–1904 (part of the third plague pandemic)",
+        "date":  "1900–1904",
+        "location":  "San Francisco, United States",
+        "disease":  "Bubonic plague",
+        "death_toll":  "119",
+        "ref":  "[174]",
+        "startYear":  1900,
+        "endYear":  1904,
+        "deathTollMin":  119,
+        "deathTollMax":  119,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-135",
+        "event":  "1900 Sydney bubonic plague epidemic (part of the third plague pandemic)",
+        "date":  "1900",
+        "location":  "Australia",
+        "disease":  "Bubonic plague",
+        "death_toll":  "103",
+        "ref":  "[175]",
+        "startYear":  1900,
+        "endYear":  1900,
+        "deathTollMin":  103,
+        "deathTollMax":  103,
+        "countries":  [
+                          "Australia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-136",
+        "event":  "1900–1920 Uganda African trypanosomiasis epidemic",
+        "date":  "1900–1920",
+        "location":  "Uganda",
+        "disease":  "African trypanosomiasis",
+        "death_toll":  "200,000–300,000",
+        "ref":  "[171]",
+        "startYear":  1900,
+        "endYear":  1920,
+        "deathTollMin":  200000,
+        "deathTollMax":  300000,
+        "countries":  [
+                          "Uganda"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-137",
+        "event":  "Papua New Guinea kuru epidemic",
+        "date":  "1901–2009",
+        "location":  "Papua New Guinea",
+        "disease":  "Kuru",
+        "death_toll":  "2,700–3,000+",
+        "ref":  "[176][177]",
+        "startYear":  1901,
+        "endYear":  2009,
+        "deathTollMin":  2700,
+        "deathTollMax":  3000,
+        "countries":  [
+                          "Guinea"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-138",
+        "event":  "1903 Fremantle plague epidemic (part of the third plague pandemic)",
+        "date":  "1903",
+        "location":  "Fremantle, Western Australia",
+        "disease":  "Bubonic plague",
+        "death_toll":  "4",
+        "ref":  "[178]",
+        "startYear":  1903,
+        "endYear":  1903,
+        "deathTollMin":  4,
+        "deathTollMax":  4,
+        "countries":  [
+                          "Australia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-139",
+        "event":  "1906 malaria outbreak in Ceylon",
+        "date":  "1906–1936",
+        "location":  "Ceylon",
+        "disease":  "Malaria",
+        "death_toll":  "80000",
+        "ref":  "[179]",
+        "startYear":  1906,
+        "endYear":  1936,
+        "deathTollMin":  80000,
+        "deathTollMax":  80000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-140",
+        "event":  "Manchurian plague (part of the third plague pandemic)",
+        "date":  "1910–1911",
+        "location":  "China",
+        "disease":  "Pneumonic plague",
+        "death_toll":  "60000",
+        "ref":  "[180]",
+        "startYear":  1910,
+        "endYear":  1911,
+        "deathTollMin":  60000,
+        "deathTollMax":  60000,
+        "countries":  [
+                          "China"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-141",
+        "event":  "1915 encephalitis lethargica pandemic",
+        "date":  "1915–1926",
+        "location":  "Worldwide",
+        "disease":  "Encephalitis lethargica",
+        "death_toll":  "500000",
+        "ref":  "[181][182][183]",
+        "startYear":  1915,
+        "endYear":  1926,
+        "deathTollMin":  500000,
+        "deathTollMax":  500000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-142",
+        "event":  "1916 United States polio epidemic",
+        "date":  "1916",
+        "location":  "United States",
+        "disease":  "Poliomyelitis",
+        "death_toll":  "7130",
+        "ref":  "[184]",
+        "startYear":  1916,
+        "endYear":  1916,
+        "deathTollMin":  7130,
+        "deathTollMax":  7130,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-143",
+        "event":  "1918 influenza pandemic (\u0027Spanish flu\u0027)",
+        "date":  "1918–1920",
+        "location":  "Worldwide",
+        "disease":  "Influenza A virus subtype H1N1 H1N1 virus",
+        "death_toll":  "17–100 million",
+        "ref":  "[185][186][187]",
+        "startYear":  1918,
+        "endYear":  1920,
+        "deathTollMin":  17,
+        "deathTollMax":  100000000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-144",
+        "event":  "1918–1922 Russia typhus epidemic",
+        "date":  "1918–1922",
+        "location":  "Russia",
+        "disease":  "Typhus",
+        "death_toll":  "2–3 million",
+        "ref":  "[188]",
+        "startYear":  1918,
+        "endYear":  1922,
+        "deathTollMin":  2,
+        "deathTollMax":  3000000,
+        "countries":  [
+                          "Russia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-145",
+        "event":  "1924 Los Angeles pneumonic plague outbreak",
+        "date":  "1924",
+        "location":  "Los Angeles, United States",
+        "disease":  "Pneumonic plague",
+        "death_toll":  "30",
+        "ref":  "[189]",
+        "startYear":  1924,
+        "endYear":  1924,
+        "deathTollMin":  30,
+        "deathTollMax":  30,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-146",
+        "event":  "1924–1925 Minnesota smallpox epidemic",
+        "date":  "1924–1925",
+        "location":  "Minnesota, United States",
+        "disease":  "Smallpox",
+        "death_toll":  "500",
+        "ref":  "[190]",
+        "startYear":  1924,
+        "endYear":  1925,
+        "deathTollMin":  500,
+        "deathTollMax":  500,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-147",
+        "event":  "1927 Montreal typhoid fever epidemic",
+        "date":  "1927",
+        "location":  "Montreal, Canada",
+        "disease":  "Typhoid fever",
+        "death_toll":  "538",
+        "ref":  "[191]",
+        "startYear":  1927,
+        "endYear":  1927,
+        "deathTollMin":  538,
+        "deathTollMax":  538,
+        "countries":  [
+                          "Canada"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-148",
+        "event":  "1929–1930 psittacosis pandemic",
+        "date":  "1929–1930",
+        "location":  "Worldwide",
+        "disease":  "Psittacosis",
+        "death_toll":  "100+",
+        "ref":  "[192]",
+        "startYear":  1929,
+        "endYear":  1930,
+        "deathTollMin":  100,
+        "deathTollMax":  100,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-149",
+        "event":  "Croydon typhoid outbreak of 1937",
+        "date":  "1937",
+        "location":  "Croydon, United Kingdom",
+        "disease":  "Typhoid fever",
+        "death_toll":  "43",
+        "ref":  "[193]",
+        "startYear":  1937,
+        "endYear":  1937,
+        "deathTollMin":  43,
+        "deathTollMax":  43,
+        "countries":  [
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-150",
+        "event":  "1937 Australia polio epidemic",
+        "date":  "1937",
+        "location":  "Australia",
+        "disease":  "Poliomyelitis",
+        "death_toll":  "Unknown",
+        "ref":  "[194]",
+        "startYear":  1937,
+        "endYear":  1937,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Australia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-151",
+        "event":  "1940 Sudan yellow fever epidemic",
+        "date":  "1940",
+        "location":  "Sudan",
+        "disease":  "Yellow fever",
+        "death_toll":  "1627",
+        "ref":  "[195]",
+        "startYear":  1940,
+        "endYear":  1940,
+        "deathTollMin":  1627,
+        "deathTollMax":  1627,
+        "countries":  [
+                          "Sudan"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-152",
+        "event":  "1942–1944 Egypt malaria epidemic",
+        "date":  "1942–1944",
+        "location":  "Egypt",
+        "disease":  "Malaria",
+        "death_toll":  "Unknown",
+        "ref":  "[137][196]",
+        "startYear":  1942,
+        "endYear":  1944,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Egypt"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-153",
+        "event":  "1946 Egypt relapsing fever epidemic",
+        "date":  "1946",
+        "location":  "Egypt",
+        "disease":  "Relapsing fever",
+        "death_toll":  "Unknown",
+        "ref":  "[137][196]",
+        "startYear":  1946,
+        "endYear":  1946,
+        "deathTollMin":  null,
+        "deathTollMax":  null,
+        "countries":  [
+                          "Egypt"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-154",
+        "event":  "1947 Egypt cholera epidemic",
+        "date":  "1947",
+        "location":  "Egypt",
+        "disease":  "Cholera",
+        "death_toll":  "10277",
+        "ref":  "[137][196][197]",
+        "startYear":  1947,
+        "endYear":  1947,
+        "deathTollMin":  10277,
+        "deathTollMax":  10277,
+        "countries":  [
+                          "Egypt"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-155",
+        "event":  "1948–1952 United States polio epidemic",
+        "date":  "1948–1952",
+        "location":  "United States",
+        "disease":  "Poliomyelitis",
+        "death_toll":  "9000",
+        "ref":  "[184]",
+        "startYear":  1948,
+        "endYear":  1952,
+        "deathTollMin":  9000,
+        "deathTollMax":  9000,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-156",
+        "event":  "1957–1958 influenza pandemic (\u0027Asian flu\u0027)",
+        "date":  "1957–1958",
+        "location":  "Worldwide",
+        "disease":  "Influenza A virus subtype H2N2",
+        "death_toll":  "1–4 million",
+        "ref":  "[185][198][199]",
+        "startYear":  1957,
+        "endYear":  1958,
+        "deathTollMin":  1,
+        "deathTollMax":  4000000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-157",
+        "event":  "1960–1962 Ethiopia yellow fever epidemic",
+        "date":  "1960–1962",
+        "location":  "Ethiopia",
+        "disease":  "Yellow fever",
+        "death_toll":  "30000",
+        "ref":  "[200]",
+        "startYear":  1960,
+        "endYear":  1962,
+        "deathTollMin":  30000,
+        "deathTollMax":  30000,
+        "countries":  [
+                          "Ethiopia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-158",
+        "event":  "Seventh cholera pandemic",
+        "date":  "1961–1975",
+        "location":  "Worldwide",
+        "disease":  "Cholera (El Tor strain)",
+        "death_toll":  "36,000[citation needed]",
+        "ref":  "[201]",
+        "startYear":  1961,
+        "endYear":  1975,
+        "deathTollMin":  36000,
+        "deathTollMax":  36000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-159",
+        "event":  "Hong Kong flu",
+        "date":  "1968–1970",
+        "location":  "Worldwide",
+        "disease":  "Influenza A virus subtype H3N2 H3N2 virus",
+        "death_toll":  "1–4 million",
+        "ref":  "[185][198][199]",
+        "startYear":  1968,
+        "endYear":  1970,
+        "deathTollMin":  1,
+        "deathTollMax":  4000000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-160",
+        "event":  "1971 Staphorst polio epidemic",
+        "date":  "1971",
+        "location":  "Staphorst, Netherlands",
+        "disease":  "Poliomyelitis",
+        "death_toll":  "5",
+        "ref":  "[202]",
+        "startYear":  1971,
+        "endYear":  1971,
+        "deathTollMin":  5,
+        "deathTollMax":  5,
+        "countries":  [
+                          "Netherlands"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-161",
+        "event":  "1972 Yugoslav smallpox outbreak",
+        "date":  "1972",
+        "location":  "Yugoslavia",
+        "disease":  "Smallpox",
+        "death_toll":  "35",
+        "ref":  "[203]",
+        "startYear":  1972,
+        "endYear":  1972,
+        "deathTollMin":  35,
+        "deathTollMax":  35,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-162",
+        "event":  "London flu",
+        "date":  "1972–1973",
+        "location":  "United States",
+        "disease":  "Influenza A virus subtype H3N2",
+        "death_toll":  "1027",
+        "ref":  "[204]",
+        "startYear":  1972,
+        "endYear":  1973,
+        "deathTollMin":  1027,
+        "deathTollMax":  1027,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-163",
+        "event":  "1973 Italy cholera epidemic",
+        "date":  "1973",
+        "location":  "Italy",
+        "disease":  "Cholera (El Tor strain)",
+        "death_toll":  "24",
+        "ref":  "[205]",
+        "startYear":  1973,
+        "endYear":  1973,
+        "deathTollMin":  24,
+        "deathTollMax":  24,
+        "countries":  [
+                          "Italy"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-164",
+        "event":  "1974 smallpox epidemic in India",
+        "date":  "1974",
+        "location":  "India",
+        "disease":  "Smallpox",
+        "death_toll":  "15000",
+        "ref":  "[206]",
+        "startYear":  1974,
+        "endYear":  1974,
+        "deathTollMin":  15000,
+        "deathTollMax":  15000,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-165",
+        "event":  "1977 Russian flu",
+        "date":  "1977–1979",
+        "location":  "Worldwide",
+        "disease":  "Influenza A virus subtype H1N1",
+        "death_toll":  "700000",
+        "ref":  "[207][208]",
+        "startYear":  1977,
+        "endYear":  1979,
+        "deathTollMin":  700000,
+        "deathTollMax":  700000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-166",
+        "event":  "Sverdlovsk anthrax leak",
+        "date":  "1979",
+        "location":  "Russia",
+        "disease":  "Anthrax",
+        "death_toll":  "105",
+        "ref":  "[209]",
+        "startYear":  1979,
+        "endYear":  1979,
+        "deathTollMin":  105,
+        "deathTollMax":  105,
+        "countries":  [
+                          "Russia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-167",
+        "event":  "HIV/AIDS pandemic",
+        "date":  "1981–present",
+        "location":  "Worldwide",
+        "disease":  "HIV/AIDS Human immunodeficiency virus",
+        "death_toll":  "40.1 million (as of 2021",
+        "ref":  "[210]",
+        "startYear":  1981,
+        "endYear":  1981,
+        "deathTollMin":  2021,
+        "deathTollMax":  40100000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-168",
+        "event":  "1984 Western Sahara plague",
+        "date":  "1984",
+        "location":  "Western Sahara",
+        "disease":  "Bubonic plague",
+        "death_toll":  "64",
+        "ref":  "[citation needed]",
+        "startYear":  1984,
+        "endYear":  1984,
+        "deathTollMin":  64,
+        "deathTollMax":  64,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-169",
+        "event":  "1986 Oju yellow fever epidemic",
+        "date":  "1986",
+        "location":  "Oju, Nigeria",
+        "disease":  "Yellow fever",
+        "death_toll":  "5,600+",
+        "ref":  "[211]",
+        "startYear":  1986,
+        "endYear":  1986,
+        "deathTollMin":  5600,
+        "deathTollMax":  5600,
+        "countries":  [
+                          "Nigeria"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-170",
+        "event":  "1987 Mali yellow fever epidemic",
+        "date":  "1987",
+        "location":  "Mali",
+        "disease":  "Yellow fever",
+        "death_toll":  "145",
+        "ref":  "[212]",
+        "startYear":  1987,
+        "endYear":  1987,
+        "deathTollMin":  145,
+        "deathTollMax":  145,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-171",
+        "event":  "1988 Shanghai hepatitis A epidemic",
+        "date":  "1988",
+        "location":  "Shanghai, China",
+        "disease":  "Hepatitis A",
+        "death_toll":  "31–47",
+        "ref":  "[213][214][215]",
+        "startYear":  1988,
+        "endYear":  1988,
+        "deathTollMin":  31,
+        "deathTollMax":  47,
+        "countries":  [
+                          "China"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-172",
+        "event":  "1991 Bangladesh cholera epidemic",
+        "date":  "1991",
+        "location":  "Bangladesh",
+        "disease":  "Cholera",
+        "death_toll":  "8,410–9,432",
+        "ref":  "[216]",
+        "startYear":  1991,
+        "endYear":  1991,
+        "deathTollMin":  8410,
+        "deathTollMax":  9432,
+        "countries":  [
+                          "Bangladesh"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-173",
+        "event":  "1991 Latin America cholera epidemic",
+        "date":  "1991–1993",
+        "location":  "Peru, Chile, Bolivia, Ecuador, Colombia, Mexico, El Salvador, Guatemala",
+        "disease":  "Cholera",
+        "death_toll":  "8000",
+        "ref":  "[217][218]",
+        "startYear":  1991,
+        "endYear":  1993,
+        "deathTollMin":  8000,
+        "deathTollMax":  8000,
+        "countries":  [
+                          "Bolivia",
+                          "Chile",
+                          "Colombia",
+                          "Ecuador",
+                          "Mexico",
+                          "Peru"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-174",
+        "event":  "1994 plague in India",
+        "date":  "1994",
+        "location":  "India",
+        "disease":  "Bubonic plague and Pneumonic plague",
+        "death_toll":  "56",
+        "ref":  "[219]",
+        "startYear":  1994,
+        "endYear":  1994,
+        "deathTollMin":  56,
+        "deathTollMax":  56,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-175",
+        "event":  "United Kingdom BSE outbreak",
+        "date":  "1996–2001",
+        "location":  "United Kingdom",
+        "disease":  "Variant Creutzfeldt–Jakob disease / vCJD",
+        "death_toll":  "178",
+        "ref":  "[220][221]",
+        "startYear":  1996,
+        "endYear":  2001,
+        "deathTollMin":  178,
+        "deathTollMax":  178,
+        "countries":  [
+                          "United Kingdom"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-176",
+        "event":  "1996 West Africa meningitis epidemic",
+        "date":  "1996",
+        "location":  "West Africa",
+        "disease":  "Meningitis",
+        "death_toll":  "10000",
+        "ref":  "[222]",
+        "startYear":  1996,
+        "endYear":  1996,
+        "deathTollMin":  10000,
+        "deathTollMax":  10000,
+        "countries":  [
+                          "Egypt",
+                          "Nigeria",
+                          "South Africa",
+                          "Ethiopia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-177",
+        "event":  "1998–1999 Malaysia Nipah virus outbreak",
+        "date":  "1998–1999",
+        "location":  "Malaysia",
+        "disease":  "Nipah virus infection",
+        "death_toll":  "105",
+        "ref":  "[223]",
+        "startYear":  1998,
+        "endYear":  1999,
+        "deathTollMin":  105,
+        "deathTollMax":  105,
+        "countries":  [
+                          "Malaysia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-178",
+        "event":  "1998–2000 Democratic Republic of the Congo Marburg virus outbreak",
+        "date":  "1998–2000",
+        "location":  "Democratic Republic of the Congo",
+        "disease":  "Marburg virus",
+        "death_toll":  "128",
+        "ref":  "[224]",
+        "startYear":  1998,
+        "endYear":  2000,
+        "deathTollMin":  128,
+        "deathTollMax":  128,
+        "countries":  [
+                          "Democratic Republic of the Congo"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-179",
+        "event":  "2000 Central America dengue epidemic",
+        "date":  "2000",
+        "location":  "Central America",
+        "disease":  "Dengue fever",
+        "death_toll":  "40+",
+        "ref":  "[225]",
+        "startYear":  2000,
+        "endYear":  2000,
+        "deathTollMin":  40,
+        "deathTollMax":  40,
+        "countries":  [
+                          "United States",
+                          "Mexico",
+                          "Panama"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-180",
+        "event":  "2001 Nigeria cholera epidemic",
+        "date":  "2001",
+        "location":  "Nigeria",
+        "disease":  "Cholera",
+        "death_toll":  "400+",
+        "ref":  "[226]",
+        "startYear":  2001,
+        "endYear":  2001,
+        "deathTollMin":  400,
+        "deathTollMax":  400,
+        "countries":  [
+                          "Nigeria"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-181",
+        "event":  "2001 South Africa cholera epidemic",
+        "date":  "2001",
+        "location":  "South Africa",
+        "disease":  "Cholera",
+        "death_toll":  "139",
+        "ref":  "[227][228]",
+        "startYear":  2001,
+        "endYear":  2001,
+        "deathTollMin":  139,
+        "deathTollMax":  139,
+        "countries":  [
+                          "South Africa",
+                          "Egypt",
+                          "Nigeria",
+                          "Ethiopia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-182",
+        "event":  "2002–2004 SARS outbreak",
+        "date":  "2002–2004",
+        "location":  "Worldwide",
+        "disease":  "Severe acute respiratory syndrome / SARS",
+        "death_toll":  "774",
+        "ref":  "[229]",
+        "startYear":  2002,
+        "endYear":  2004,
+        "deathTollMin":  774,
+        "deathTollMax":  774,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-183",
+        "event":  "2003–2019 Asia and Egypt avian influenza epidemic",
+        "date":  "2003–2019",
+        "location":  "China, Southeast Asia and Egypt",
+        "disease":  "Influenza A virus subtype H5N1",
+        "death_toll":  "455",
+        "ref":  "[230]",
+        "startYear":  2003,
+        "endYear":  2019,
+        "deathTollMin":  455,
+        "deathTollMax":  455,
+        "countries":  [
+                          "China",
+                          "Egypt",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-184",
+        "event":  "2004 Indonesia dengue epidemic",
+        "date":  "2004",
+        "location":  "Indonesia",
+        "disease":  "Dengue fever",
+        "death_toll":  "658",
+        "ref":  "[231]",
+        "startYear":  2004,
+        "endYear":  2004,
+        "deathTollMin":  658,
+        "deathTollMax":  658,
+        "countries":  [
+                          "Indonesia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-185",
+        "event":  "2004 Sudan Ebola outbreak",
+        "date":  "2004",
+        "location":  "Sudan",
+        "disease":  "Ebola",
+        "death_toll":  "7",
+        "ref":  "[232]",
+        "startYear":  2004,
+        "endYear":  2004,
+        "deathTollMin":  7,
+        "deathTollMax":  7,
+        "countries":  [
+                          "Sudan"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-186",
+        "event":  "2004–2005 Angola Marburg virus outbreak",
+        "date":  "2004–2005",
+        "location":  "Angola",
+        "disease":  "Marburg virus",
+        "death_toll":  "227",
+        "ref":  "[224]",
+        "startYear":  2004,
+        "endYear":  2005,
+        "deathTollMin":  227,
+        "deathTollMax":  227,
+        "countries":  [
+                          "Angola"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-187",
+        "event":  "2005 dengue outbreak in Singapore",
+        "date":  "2005",
+        "location":  "Singapore",
+        "disease":  "Dengue fever",
+        "death_toll":  "27",
+        "ref":  "[233]",
+        "startYear":  2005,
+        "endYear":  2005,
+        "deathTollMin":  27,
+        "deathTollMax":  27,
+        "countries":  [
+                          "Singapore"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-188",
+        "event":  "2006 Luanda cholera epidemic",
+        "date":  "2006",
+        "location":  "Luanda, Angola",
+        "disease":  "Cholera",
+        "death_toll":  "1,200+",
+        "ref":  "[234]",
+        "startYear":  2006,
+        "endYear":  2006,
+        "deathTollMin":  1200,
+        "deathTollMax":  1200,
+        "countries":  [
+                          "Angola"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-189",
+        "event":  "2006 Ituri Province plague epidemic",
+        "date":  "2006",
+        "location":  "Ituri Province, Democratic Republic of the Congo",
+        "disease":  "Bubonic plague",
+        "death_toll":  "61",
+        "ref":  "[235][236]",
+        "startYear":  2006,
+        "endYear":  2006,
+        "deathTollMin":  61,
+        "deathTollMax":  61,
+        "countries":  [
+                          "Democratic Republic of the Congo"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-190",
+        "event":  "2006 India malaria outbreak",
+        "date":  "2006",
+        "location":  "India",
+        "disease":  "Malaria",
+        "death_toll":  "17",
+        "ref":  "[237]",
+        "startYear":  2006,
+        "endYear":  2006,
+        "deathTollMin":  17,
+        "deathTollMax":  17,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-191",
+        "event":  "2006 dengue outbreak in India",
+        "date":  "2006",
+        "location":  "India",
+        "disease":  "Dengue fever",
+        "death_toll":  "50+",
+        "ref":  "[238]",
+        "startYear":  2006,
+        "endYear":  2006,
+        "deathTollMin":  50,
+        "deathTollMax":  50,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-192",
+        "event":  "2006 dengue outbreak in Pakistan",
+        "date":  "2006",
+        "location":  "Pakistan",
+        "disease":  "Dengue fever",
+        "death_toll":  "50+",
+        "ref":  "[239]",
+        "startYear":  2006,
+        "endYear":  2006,
+        "deathTollMin":  50,
+        "deathTollMax":  50,
+        "countries":  [
+                          "Pakistan"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-193",
+        "event":  "2006 Philippines dengue epidemic",
+        "date":  "2006",
+        "location":  "Philippines",
+        "disease":  "Dengue fever",
+        "death_toll":  "1000",
+        "ref":  "[240]",
+        "startYear":  2006,
+        "endYear":  2006,
+        "deathTollMin":  1000,
+        "deathTollMax":  1000,
+        "countries":  [
+                          "Philippines"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-194",
+        "event":  "2006–2007 East Africa Rift Valley fever outbreak",
+        "date":  "2006–2007",
+        "location":  "East Africa",
+        "disease":  "Rift Valley fever",
+        "death_toll":  "394",
+        "ref":  "[241]",
+        "startYear":  2006,
+        "endYear":  2007,
+        "deathTollMin":  394,
+        "deathTollMax":  394,
+        "countries":  [
+                          "Egypt",
+                          "Nigeria",
+                          "South Africa",
+                          "Ethiopia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-195",
+        "event":  "Mweka Ebola epidemic",
+        "date":  "2007",
+        "location":  "Democratic Republic of the Congo",
+        "disease":  "Ebola",
+        "death_toll":  "187",
+        "ref":  "[242]",
+        "startYear":  2007,
+        "endYear":  2007,
+        "deathTollMin":  187,
+        "deathTollMax":  187,
+        "countries":  [
+                          "Democratic Republic of the Congo"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-196",
+        "event":  "2007 Ethiopia cholera epidemic",
+        "date":  "2007",
+        "location":  "Ethiopia",
+        "disease":  "Cholera",
+        "death_toll":  "684",
+        "ref":  "[243]",
+        "startYear":  2007,
+        "endYear":  2007,
+        "deathTollMin":  684,
+        "deathTollMax":  684,
+        "countries":  [
+                          "Ethiopia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-197",
+        "event":  "2007 Iraq cholera outbreak",
+        "date":  "2007",
+        "location":  "Iraq",
+        "disease":  "Cholera",
+        "death_toll":  "10",
+        "ref":  "[244]",
+        "startYear":  2007,
+        "endYear":  2007,
+        "deathTollMin":  10,
+        "deathTollMax":  10,
+        "countries":  [
+                          "Iraq"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-198",
+        "event":  "2007 Puerto Rico, Dominican Republic, and Mexico dengue fever epidemic",
+        "date":  "2007",
+        "location":  "Puerto Rico, Dominican Republic, Mexico",
+        "disease":  "Dengue fever",
+        "death_toll":  "183",
+        "ref":  "[245]",
+        "startYear":  2007,
+        "endYear":  2007,
+        "deathTollMin":  183,
+        "deathTollMax":  183,
+        "countries":  [
+                          "Dominican Republic",
+                          "Mexico"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-199",
+        "event":  "2007 Uganda Ebola outbreak",
+        "date":  "2007",
+        "location":  "Uganda",
+        "disease":  "Ebola",
+        "death_toll":  "37",
+        "ref":  "[232]",
+        "startYear":  2007,
+        "endYear":  2007,
+        "deathTollMin":  37,
+        "deathTollMax":  37,
+        "countries":  [
+                          "Uganda"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-200",
+        "event":  "2007 Netherlands Q-fever epidemic",
+        "date":  "2007–2018",
+        "location":  "Netherlands",
+        "disease":  "Q-fever",
+        "death_toll":  "95",
+        "ref":  "[246]",
+        "startYear":  2007,
+        "endYear":  2018,
+        "deathTollMin":  95,
+        "deathTollMax":  95,
+        "countries":  [
+                          "Netherlands"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-201",
+        "event":  "2008 Brazil dengue epidemic",
+        "date":  "2008",
+        "location":  "Brazil",
+        "disease":  "Dengue fever",
+        "death_toll":  "67",
+        "ref":  "[247]",
+        "startYear":  2008,
+        "endYear":  2008,
+        "deathTollMin":  67,
+        "deathTollMax":  67,
+        "countries":  [
+                          "Brazil"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-202",
+        "event":  "2008 Cambodia dengue epidemic",
+        "date":  "2008",
+        "location":  "Cambodia",
+        "disease":  "Dengue fever",
+        "death_toll":  "407",
+        "ref":  "[248]",
+        "startYear":  2008,
+        "endYear":  2008,
+        "deathTollMin":  407,
+        "deathTollMax":  407,
+        "countries":  [
+                          "Cambodia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-203",
+        "event":  "2008 Chad cholera epidemic",
+        "date":  "2008",
+        "location":  "Chad",
+        "disease":  "Cholera",
+        "death_toll":  "123",
+        "ref":  "[249]",
+        "startYear":  2008,
+        "endYear":  2008,
+        "deathTollMin":  123,
+        "deathTollMax":  123,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-204",
+        "event":  "2008–2017 China hand, foot, and mouth disease epidemic",
+        "date":  "2008–2017",
+        "location":  "China",
+        "disease":  "Hand, foot, and mouth disease",
+        "death_toll":  "3,322+",
+        "ref":  "[250]",
+        "startYear":  2008,
+        "endYear":  2017,
+        "deathTollMin":  3322,
+        "deathTollMax":  3322,
+        "countries":  [
+                          "China"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-205",
+        "event":  "2008 India cholera epidemic",
+        "date":  "2008",
+        "location":  "India",
+        "disease":  "Cholera",
+        "death_toll":  "115",
+        "ref":  "[251]",
+        "startYear":  2008,
+        "endYear":  2008,
+        "deathTollMin":  115,
+        "deathTollMax":  115,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-206",
+        "event":  "2008 Madagascar plague outbreak",
+        "date":  "2008",
+        "location":  "Madagascar",
+        "disease":  "Bubonic plague",
+        "death_toll":  "18+",
+        "ref":  "[252]",
+        "startYear":  2008,
+        "endYear":  2008,
+        "deathTollMin":  18,
+        "deathTollMax":  18,
+        "countries":  [
+                          "Madagascar"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-207",
+        "event":  "2008 Philippines dengue epidemic",
+        "date":  "2008",
+        "location":  "Philippines",
+        "disease":  "Dengue fever",
+        "death_toll":  "172",
+        "ref":  "[253]",
+        "startYear":  2008,
+        "endYear":  2008,
+        "deathTollMin":  172,
+        "deathTollMax":  172,
+        "countries":  [
+                          "Philippines"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-208",
+        "event":  "2008 Zimbabwean cholera outbreak",
+        "date":  "2008–2009",
+        "location":  "Zimbabwe",
+        "disease":  "Cholera",
+        "death_toll":  "4293",
+        "ref":  "[254]",
+        "startYear":  2008,
+        "endYear":  2009,
+        "deathTollMin":  4293,
+        "deathTollMax":  4293,
+        "countries":  [
+                          "Zimbabwe"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-209",
+        "event":  "2009 Bolivian dengue fever epidemic",
+        "date":  "2009",
+        "location":  "Bolivia",
+        "disease":  "Dengue fever",
+        "death_toll":  "18",
+        "ref":  "[255]",
+        "startYear":  2009,
+        "endYear":  2009,
+        "deathTollMin":  18,
+        "deathTollMax":  18,
+        "countries":  [
+                          "Bolivia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-210",
+        "event":  "2009 Gujarat hepatitis outbreak",
+        "date":  "2009",
+        "location":  "India",
+        "disease":  "Hepatitis B",
+        "death_toll":  "49",
+        "ref":  "[256]",
+        "startYear":  2009,
+        "endYear":  2009,
+        "deathTollMin":  49,
+        "deathTollMax":  49,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-211",
+        "event":  "Queensland 2009 dengue outbreak",
+        "date":  "2009",
+        "location":  "Queensland, Australia",
+        "disease":  "Dengue fever",
+        "death_toll":  "1+ (503 cases)",
+        "ref":  "[257]",
+        "startYear":  2009,
+        "endYear":  2009,
+        "deathTollMin":  1,
+        "deathTollMax":  503,
+        "countries":  [
+                          "Australia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-212",
+        "event":  "2009–2010 West African meningitis outbreak",
+        "date":  "2009–2010",
+        "location":  "West Africa",
+        "disease":  "Meningitis",
+        "death_toll":  "1100",
+        "ref":  "[258]",
+        "startYear":  2009,
+        "endYear":  2010,
+        "deathTollMin":  1100,
+        "deathTollMax":  1100,
+        "countries":  [
+                          "Egypt",
+                          "Nigeria",
+                          "South Africa",
+                          "Ethiopia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-213",
+        "event":  "2009 swine flu pandemic",
+        "date":  "2009–2010",
+        "location":  "Worldwide",
+        "disease":  "Influenza A virus subtype H1N1",
+        "death_toll":  "Lab confirmed deaths: 18,449 (reported to the WHO)",
+        "ref":  "[259]",
+        "startYear":  2009,
+        "endYear":  2010,
+        "deathTollMin":  18449,
+        "deathTollMax":  18449,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-214",
+        "event":  "2009 swine flu pandemic",
+        "date":  "2009–2010",
+        "location":  "Worldwide",
+        "disease":  "Influenza A virus subtype H1N1",
+        "death_toll":  "Estimated death toll: 284,000 (possible range 151,700–575,400)",
+        "ref":  "[260]",
+        "startYear":  2009,
+        "endYear":  2010,
+        "deathTollMin":  151700,
+        "deathTollMax":  575400,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-215",
+        "event":  "2010s Haiti cholera outbreak",
+        "date":  "2010–2019",
+        "location":  "Haiti",
+        "disease":  "Cholera (strain serogroup O1, serotype Ogawa)",
+        "death_toll":  "10075",
+        "ref":  "[261]",
+        "startYear":  2010,
+        "endYear":  2019,
+        "deathTollMin":  10075,
+        "deathTollMax":  10075,
+        "countries":  [
+                          "Haiti"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-216",
+        "event":  "2010–2014 Democratic Republic of the Congo measles outbreak",
+        "date":  "2010–2014",
+        "location":  "Democratic Republic of the Congo",
+        "disease":  "Measles",
+        "death_toll":  "4,500+",
+        "ref":  "[262][263]",
+        "startYear":  2010,
+        "endYear":  2014,
+        "deathTollMin":  4500,
+        "deathTollMax":  4500,
+        "countries":  [
+                          "Democratic Republic of the Congo"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-217",
+        "event":  "2011 Vietnam hand, foot, and mouth disease epidemic",
+        "date":  "2011",
+        "location":  "Vietnam",
+        "disease":  "Hand, foot and mouth disease",
+        "death_toll":  "170",
+        "ref":  "[264][265]",
+        "startYear":  2011,
+        "endYear":  2011,
+        "deathTollMin":  170,
+        "deathTollMax":  170,
+        "countries":  [
+                          "Vietnam"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-218",
+        "event":  "2011 dengue outbreak in Pakistan",
+        "date":  "2011",
+        "location":  "Pakistan",
+        "disease":  "Dengue fever",
+        "death_toll":  "350+",
+        "ref":  "[266]",
+        "startYear":  2011,
+        "endYear":  2011,
+        "deathTollMin":  350,
+        "deathTollMax":  350,
+        "countries":  [
+                          "Pakistan"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-219",
+        "event":  "2012 yellow fever outbreak in Darfur, Sudan",
+        "date":  "2012",
+        "location":  "Darfur, Sudan",
+        "disease":  "Yellow fever",
+        "death_toll":  "171",
+        "ref":  "[267]",
+        "startYear":  2012,
+        "endYear":  2012,
+        "deathTollMin":  171,
+        "deathTollMax":  171,
+        "countries":  [
+                          "Sudan"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-220",
+        "event":  "2012 Middle East respiratory syndrome coronavirus outbreak",
+        "date":  "2012–2021",
+        "location":  "Worldwide",
+        "disease":  "Middle East respiratory syndrome / MERS-CoV",
+        "death_toll":  "941 (as of 8 May 2021",
+        "ref":  "[268][269]",
+        "startYear":  2012,
+        "endYear":  2021,
+        "deathTollMin":  8,
+        "deathTollMax":  2021,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-221",
+        "event":  "2013 dengue outbreak in Singapore",
+        "date":  "2013",
+        "location":  "Singapore",
+        "disease":  "Dengue fever",
+        "death_toll":  "8",
+        "ref":  "",
+        "startYear":  2013,
+        "endYear":  2013,
+        "deathTollMin":  8,
+        "deathTollMax":  8,
+        "countries":  [
+                          "Singapore"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-222",
+        "event":  "2013 Vietnam measles outbreak",
+        "date":  "2013–2014",
+        "location":  "Vietnam",
+        "disease":  "Measles",
+        "death_toll":  "142",
+        "ref":  "[270]",
+        "startYear":  2013,
+        "endYear":  2014,
+        "deathTollMin":  142,
+        "deathTollMax":  142,
+        "countries":  [
+                          "Vietnam"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-223",
+        "event":  "Western African Ebola virus epidemic",
+        "date":  "2013–2016",
+        "location":  "Worldwide, primarily concentrated in Guinea, Liberia, Sierra Leone",
+        "disease":  "Ebola Ebola virus virion",
+        "death_toll":  "11,323+",
+        "ref":  "[271][272][273]",
+        "startYear":  2013,
+        "endYear":  2016,
+        "deathTollMin":  11323,
+        "deathTollMax":  11323,
+        "countries":  [
+                          "Guinea",
+                          "Sierra Leone",
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-224",
+        "event":  "2013–2014 chikungunya outbreak",
+        "date":  "2013–2015",
+        "location":  "Americas",
+        "disease":  "Chikungunya",
+        "death_toll":  "183",
+        "ref":  "[274]",
+        "startYear":  2013,
+        "endYear":  2015,
+        "deathTollMin":  183,
+        "deathTollMax":  183,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-225",
+        "event":  "2013–19 avian influenza epidemic",
+        "date":  "2013–2019",
+        "location":  "China",
+        "disease":  "Influenza A virus subtype H7N9",
+        "death_toll":  "616",
+        "ref":  "[275]",
+        "startYear":  2013,
+        "endYear":  2019,
+        "deathTollMin":  616,
+        "deathTollMax":  616,
+        "countries":  [
+                          "China"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-226",
+        "event":  "2014 Madagascar plague outbreak",
+        "date":  "2014–2017",
+        "location":  "Madagascar",
+        "disease":  "Bubonic plague",
+        "death_toll":  "292",
+        "ref":  "[276]",
+        "startYear":  2014,
+        "endYear":  2017,
+        "deathTollMin":  292,
+        "deathTollMax":  292,
+        "countries":  [
+                          "Madagascar"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-227",
+        "event":  "Flint water crisis",
+        "date":  "2014–2015",
+        "location":  "Flint, Michigan, United States",
+        "disease":  "Legionnaires\u0027 disease",
+        "death_toll":  "12",
+        "ref":  "[277]",
+        "startYear":  2014,
+        "endYear":  2015,
+        "deathTollMin":  12,
+        "deathTollMax":  12,
+        "countries":  [
+                          "United States"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-228",
+        "event":  "2014 Odisha hepatitis outbreak",
+        "date":  "2014–2015",
+        "location":  "India",
+        "disease":  "Primarily Hepatitis E, but also Hepatitis A",
+        "death_toll":  "36",
+        "ref":  "[278]",
+        "startYear":  2014,
+        "endYear":  2015,
+        "deathTollMin":  36,
+        "deathTollMax":  36,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-229",
+        "event":  "2015 Indian swine flu outbreak",
+        "date":  "2015",
+        "location":  "India",
+        "disease":  "Influenza A virus subtype H1N1",
+        "death_toll":  "2035",
+        "ref":  "[279][280][281]",
+        "startYear":  2015,
+        "endYear":  2015,
+        "deathTollMin":  2035,
+        "deathTollMax":  2035,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-230",
+        "event":  "2015–16 Zika virus epidemic",
+        "date":  "2015–2016",
+        "location":  "Worldwide",
+        "disease":  "Zika virus",
+        "death_toll":  "53",
+        "ref":  "[282]",
+        "startYear":  2015,
+        "endYear":  2016,
+        "deathTollMin":  53,
+        "deathTollMax":  53,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-231",
+        "event":  "2016 Angola and Democratic Republic of the Congo yellow fever outbreak",
+        "date":  "2016",
+        "location":  "Angola and Democratic Republic of the Congo",
+        "disease":  "Yellow fever",
+        "death_toll":  "498 (377 in Angola, 121 in Congo)",
+        "ref":  "[283]",
+        "startYear":  2016,
+        "endYear":  2016,
+        "deathTollMin":  121,
+        "deathTollMax":  498,
+        "countries":  [
+                          "Angola",
+                          "Democratic Republic of the Congo"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-232",
+        "event":  "2016–2022 Yemen cholera outbreak",
+        "date":  "2016–2022",
+        "location":  "Yemen",
+        "disease":  "Cholera",
+        "death_toll":  "3,981 (as of December 2020",
+        "ref":  "[284]",
+        "startYear":  2016,
+        "endYear":  2022,
+        "deathTollMin":  2020,
+        "deathTollMax":  3981,
+        "countries":  [
+                          "Yemen"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-233",
+        "event":  "2017 dengue outbreak in Peshawar",
+        "date":  "2017",
+        "location":  "Peshawar, Pakistan",
+        "disease":  "Dengue fever",
+        "death_toll":  "69",
+        "ref":  "[285]",
+        "startYear":  2017,
+        "endYear":  2017,
+        "deathTollMin":  69,
+        "deathTollMax":  69,
+        "countries":  [
+                          "Pakistan"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-234",
+        "event":  "2017 Gorakhpur hospital deaths",
+        "date":  "2017",
+        "location":  "India",
+        "disease":  "Japanese encephalitis",
+        "death_toll":  "1317",
+        "ref":  "[286]",
+        "startYear":  2017,
+        "endYear":  2017,
+        "deathTollMin":  1317,
+        "deathTollMax":  1317,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-235",
+        "event":  "2017 dengue outbreak in Sri Lanka",
+        "date":  "2017",
+        "location":  "Sri Lanka",
+        "disease":  "Dengue fever",
+        "death_toll":  "440",
+        "ref":  "[287]",
+        "startYear":  2017,
+        "endYear":  2017,
+        "deathTollMin":  440,
+        "deathTollMax":  440,
+        "countries":  [
+                          "Sri Lanka"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-236",
+        "event":  "2018 Nipah virus outbreak in Kerala",
+        "date":  "2018",
+        "location":  "India",
+        "disease":  "Nipah virus infection",
+        "death_toll":  "17",
+        "ref":  "[288]",
+        "startYear":  2018,
+        "endYear":  2018,
+        "deathTollMin":  17,
+        "deathTollMax":  17,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-237",
+        "event":  "Kivu Ebola epidemic",
+        "date":  "2018–2020",
+        "location":  "Democratic Republic of the Congo and Uganda",
+        "disease":  "Ebola",
+        "death_toll":  "2280",
+        "ref":  "[289][290][291]",
+        "startYear":  2018,
+        "endYear":  2020,
+        "deathTollMin":  2280,
+        "deathTollMax":  2280,
+        "countries":  [
+                          "Democratic Republic of the Congo",
+                          "Uganda"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-238",
+        "event":  "2018 NDM-CRE outbreak in Italy",
+        "date":  "2018–2019",
+        "location":  "Italy",
+        "disease":  "New Delhi metallo-beta-lactamase-producing Carbapenem-resistant enterobacteriaceae",
+        "death_toll":  "31 (as of September 2019)",
+        "ref":  "[292]",
+        "startYear":  2018,
+        "endYear":  2019,
+        "deathTollMin":  31,
+        "deathTollMax":  2019,
+        "countries":  [
+                          "Italy"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-239",
+        "event":  "2019–2020 measles outbreak in the Democratic Republic of the Congo",
+        "date":  "2019–2020",
+        "location":  "Democratic Republic of the Congo",
+        "disease":  "Measles",
+        "death_toll":  "7,018+",
+        "ref":  "[293]",
+        "startYear":  2019,
+        "endYear":  2020,
+        "deathTollMin":  7018,
+        "deathTollMax":  7018,
+        "countries":  [
+                          "Democratic Republic of the Congo"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-240",
+        "event":  "2019–2020 New Zealand measles outbreak",
+        "date":  "2019–2020",
+        "location":  "New Zealand",
+        "disease":  "Measles",
+        "death_toll":  "2",
+        "ref":  "[294]",
+        "startYear":  2019,
+        "endYear":  2020,
+        "deathTollMin":  2,
+        "deathTollMax":  2,
+        "countries":  [
+                          "New Zealand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-241",
+        "event":  "2019 measles outbreak in the Philippines",
+        "date":  "2019",
+        "location":  "Philippines",
+        "disease":  "Measles",
+        "death_toll":  "415",
+        "ref":  "[295]",
+        "startYear":  2019,
+        "endYear":  2019,
+        "deathTollMin":  415,
+        "deathTollMax":  415,
+        "countries":  [
+                          "Philippines"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-242",
+        "event":  "2019 Kuala Koh measles outbreak",
+        "date":  "2019",
+        "location":  "Kuala Koh, Malaysia",
+        "disease":  "Measles",
+        "death_toll":  "15",
+        "ref":  "[296]",
+        "startYear":  2019,
+        "endYear":  2019,
+        "deathTollMin":  15,
+        "deathTollMax":  15,
+        "countries":  [
+                          "Malaysia"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-243",
+        "event":  "2019 Samoa measles outbreak",
+        "date":  "2019",
+        "location":  "Samoa",
+        "disease":  "Measles",
+        "death_toll":  "83",
+        "ref":  "[297]",
+        "startYear":  2019,
+        "endYear":  2019,
+        "deathTollMin":  83,
+        "deathTollMax":  83,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-244",
+        "event":  "2019–2020 dengue fever epidemic",
+        "date":  "2019–2020",
+        "location":  "Asia-Pacific, Latin America",
+        "disease":  "Dengue fever",
+        "death_toll":  "3930",
+        "ref":  "[298]",
+        "startYear":  2019,
+        "endYear":  2020,
+        "deathTollMin":  3930,
+        "deathTollMax":  3930,
+        "countries":  [
+                          "United States",
+                          "Mexico",
+                          "Brazil",
+                          "Peru",
+                          "China",
+                          "India",
+                          "Japan",
+                          "Thailand"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-245",
+        "event":  "2019 Nigeria Lassa fever epidemic",
+        "date":  "2019–2021",
+        "location":  "Nigeria",
+        "disease":  "Lassa fever",
+        "death_toll":  "247 (as of May 2021)",
+        "ref":  "[299]",
+        "startYear":  2019,
+        "endYear":  2021,
+        "deathTollMin":  247,
+        "deathTollMax":  2021,
+        "countries":  [
+                          "Nigeria"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-246",
+        "event":  "COVID-19 pandemic",
+        "date":  "2019–present",
+        "location":  "Worldwide",
+        "disease":  "Coronavirus disease 2019 / COVID-19 SARS-CoV-2 virus",
+        "death_toll":  "7–28 million (as of November 2022)",
+        "ref":  "[300][301][302][303]",
+        "startYear":  2019,
+        "endYear":  2019,
+        "deathTollMin":  7,
+        "deathTollMax":  28000000,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-247",
+        "event":  "2020 Democratic Republic of the Congo Ebola outbreak",
+        "date":  "2020",
+        "location":  "Democratic Republic of the Congo",
+        "disease":  "Ebola",
+        "death_toll":  "55",
+        "ref":  "[304]",
+        "startYear":  2020,
+        "endYear":  2020,
+        "deathTollMin":  55,
+        "deathTollMax":  55,
+        "countries":  [
+                          "Democratic Republic of the Congo"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-248",
+        "event":  "2020 dengue outbreak in Singapore",
+        "date":  "2020",
+        "location":  "Singapore",
+        "disease":  "Dengue fever",
+        "death_toll":  "32",
+        "ref":  "[305]",
+        "startYear":  2020,
+        "endYear":  2020,
+        "deathTollMin":  32,
+        "deathTollMax":  32,
+        "countries":  [
+                          "Singapore"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-249",
+        "event":  "2020 Nigeria yellow fever epidemic",
+        "date":  "2020",
+        "location":  "Nigeria",
+        "disease":  "Yellow fever",
+        "death_toll":  "296 (as of 31 December 2020)",
+        "ref":  "[306]",
+        "startYear":  2020,
+        "endYear":  2020,
+        "deathTollMin":  31,
+        "deathTollMax":  2020,
+        "countries":  [
+                          "Nigeria"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-250",
+        "event":  "2021 India black fungus epidemic",
+        "date":  "2021–present",
+        "location":  "India",
+        "disease":  "Black fungus / COVID-19 associated mucormycosis",
+        "death_toll":  "4332",
+        "ref":  "[307]",
+        "startYear":  2021,
+        "endYear":  2021,
+        "deathTollMin":  4332,
+        "deathTollMax":  4332,
+        "countries":  [
+                          "India"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-251",
+        "event":  "2022 hepatitis of unknown origin in children",
+        "date":  "2021–present",
+        "location":  "Worldwide",
+        "disease":  "Hepatitis by Adenovirus variant AF41 (Unconfirmed)",
+        "death_toll":  "18",
+        "ref":  "[308][309][310]",
+        "startYear":  2021,
+        "endYear":  2021,
+        "deathTollMin":  18,
+        "deathTollMax":  18,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-252",
+        "event":  "2022 monkeypox outbreak",
+        "date":  "2022–present",
+        "location":  "Worldwide",
+        "disease":  "Monkeypox virus",
+        "death_toll":  "136",
+        "ref":  "[311][312][313][314]",
+        "startYear":  2022,
+        "endYear":  2022,
+        "deathTollMin":  136,
+        "deathTollMax":  136,
+        "countries":  [
+                          "Global"
+                      ],
+        "isGlobal":  false
+    },
+    {
+        "id":  "event-253",
+        "event":  "2022 Uganda Ebola outbreak",
+        "date":  "2022–present",
+        "location":  "Uganda",
+        "disease":  "Sudan ebolavirus",
+        "death_toll":  "23",
+        "ref":  "[315]",
+        "startYear":  2022,
+        "endYear":  2022,
+        "deathTollMin":  23,
+        "deathTollMax":  23,
+        "countries":  [
+                          "Uganda"
+                      ],
+        "isGlobal":  false
+    }
+]
